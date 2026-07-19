@@ -1,0 +1,4 @@
+interface:
+  display_name: "JSON Repair"
+  short_description: "Auto-detect and fix common JSON format errors"
+  default_prompt: "Fix this JSON error"

@@ -1,0 +1,8 @@
+{
+  "locale": "en",
+  "showRibbon": true,
+  "showEmptyTrashAction": true,
+  "editorWidthSliderEnabled": true,
+  "editorLineWidth": 860,
+  "rememberCursorPosition": false
+}

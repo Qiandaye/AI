@@ -1,0 +1,9 @@
+{
+    "id":  "cortex-chat",
+    "name":  "Cortex Chat",
+    "version":  "1.5.5",
+    "minAppVersion":  "1.8.0",
+    "description":  "AI chat sidebar with vault context, references, PDF text, local CLI fallback, sessions, and backups.",
+    "author":  "xhydros",
+    "isDesktopOnly":  true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Social Media Strategist\ndescription: Expert social media strategist for LinkedIn, Twitter, and professional platforms. Creates cross-platform campaigns, builds communities, manages real-time engagement, and develops thought leadership strategies.\ntools: WebFetch, WebSearch, Read, Write, Edit\ncolor: blue",
+  "description": "Social Media Strategist\ndescription: Expert social media strategist for LinkedIn, Twitter, and professional platforms. Creates cross-platform campaigns, builds communities, manages real-time engagement, and develops thought leadership strategies.\ntools: WebFetch, WebSearch, Read, Write, Edit\ncolor: blue - AI specialist agent from The Agency",
+  "version": "1.0.0",
+  "skill_file": "SKILL.md",
+  "category": "marketing"
+}

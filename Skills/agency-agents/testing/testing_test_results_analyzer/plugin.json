@@ -1,0 +1,7 @@
+{
+  "name": "Test Results Analyzer\ndescription: Expert test analysis specialist focused on comprehensive test result evaluation, quality metrics analysis, and actionable insight generation from testing activities\ncolor: indigo",
+  "description": "Test Results Analyzer\ndescription: Expert test analysis specialist focused on comprehensive test result evaluation, quality metrics analysis, and actionable insight generation from testing activities\ncolor: indigo - AI specialist agent from The Agency",
+  "version": "1.0.0",
+  "skill_file": "SKILL.md",
+  "category": "testing"
+}

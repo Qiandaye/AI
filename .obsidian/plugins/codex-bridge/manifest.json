@@ -1,0 +1,9 @@
+{
+  "id": "codex-bridge",
+  "name": "Codex Bridge",
+  "version": "0.6.0",
+  "minAppVersion": "1.5.0",
+  "description": "Local bridge for using vault notes with Codex and importing replies.",
+  "author": "LukeJiaoR",
+  "isDesktopOnly": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Feedback Synthesizer\ndescription: Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Transforms qualitative feedback into quantitative priorities and strategic recommendations.\ncolor: blue\ntools: WebFetch, WebSearch, Read, Write, Edit",
+  "description": "Feedback Synthesizer\ndescription: Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Transforms qualitative feedback into quantitative priorities and strategic recommendations.\ncolor: blue\ntools: WebFetch, WebSearch, Read, Write, Edit - AI specialist agent from The Agency",
+  "version": "1.0.0",
+  "skill_file": "SKILL.md",
+  "category": "product"
+}

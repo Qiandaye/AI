@@ -1,0 +1,7 @@
+{
+  "name": "Report Distribution Agent\ndescription: AI agent that automates distribution of consolidated sales reports to representatives based on territorial parameters\ncolor: \"#d69e2e\"",
+  "description": "Report Distribution Agent\ndescription: AI agent that automates distribution of consolidated sales reports to representatives based on territorial parameters\ncolor: \"#d69e2e\" - AI specialist agent from The Agency",
+  "version": "1.0.0",
+  "skill_file": "SKILL.md",
+  "category": "specialized"
+}

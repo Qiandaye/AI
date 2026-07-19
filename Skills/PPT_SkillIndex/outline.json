@@ -1,0 +1,5168 @@
+{
+  "title": "Codex 技能全景索引",
+  "subtitle": "107 Skills + 120+ Plugins + 1 MCP Server",
+  "style": "科技商务风 | 黑色底 + 霓虹紫 | 图标+数据可视化 | 详细版",
+  "aspect_ratio": "16:9",
+  "language": "zh-CN",
+  "slides": [
+    {
+      "num": 1,
+      "type": "cover",
+      "title": "Codex 技能全景索引",
+      "subtitle": "全部 Skills · 插件 · MCP Server 功能与用法大全",
+      "meta": "2026-07-06 | 共 230+ 项"
+    },
+    {
+      "num": 2,
+      "type": "toc",
+      "title": "目录",
+      "sections": [
+        "第一部分：Skills（107 个）",
+        "第二部分：Plugins（120+ 个）",
+        "第三部分：MCP Server（1 个）"
+      ]
+    },
+    {
+      "num": 3,
+      "type": "category_overview",
+      "category": "数据/搜索",
+      "skills": [
+        "a-stock-data",
+        "agent-reach",
+        "ai-image-prompts-skill",
+        "anysearch",
+        "knowledge-agent",
+        "mem-search"
+      ],
+      "count": 6
+    },
+    {
+      "num": 4,
+      "type": "category_overview",
+      "category": "前端/设计",
+      "skills": [
+        "design-taste-frontend",
+        "frontend-design",
+        "gpt-taste",
+        "high-end-visual-design",
+        "impeccable",
+        "minimalist-ui",
+        "industrial-brutalist-ui",
+        "stitch-design-taste",
+        "taste-skill",
+        "ui-ux-pro-max",
+        "image-to-code",
+        "redesign-existing-projects",
+        "imagegen-frontend-web",
+        "imagegen-frontend-mobile"
+      ],
+      "count": 14
+    },
+    {
+      "num": 5,
+      "type": "category_overview",
+      "category": "图片/视觉",
+      "skills": [
+        "imagegen-free",
+        "brandkit",
+        "hatch-pet",
+        "screenshot"
+      ],
+      "count": 4
+    },
+    {
+      "num": 6,
+      "type": "category_overview",
+      "category": "文档/办公",
+      "skills": [
+        "doc-excel-toolkit",
+        "pdf",
+        "speech",
+        "transcribe",
+        "jupyter-notebook"
+      ],
+      "count": 5
+    },
+    {
+      "num": 7,
+      "type": "category_overview",
+      "category": "PPT",
+      "skills": [
+        "GordenImage2PPTX",
+        "GordenImagePPTGen",
+        "GordenSuperPPTSkill",
+        "guizang-ppt-skill"
+      ],
+      "count": 4
+    },
+    {
+      "num": 8,
+      "type": "category_overview",
+      "category": "写作",
+      "skills": [
+        "khazix-writer",
+        "humanizer-zh",
+        "stop-slop"
+      ],
+      "count": 3
+    },
+    {
+      "num": 9,
+      "type": "category_overview",
+      "category": "部署",
+      "skills": [
+        "vercel-deploy",
+        "netlify-deploy",
+        "cloudflare-deploy",
+        "render-deploy",
+        "yeet"
+      ],
+      "count": 5
+    },
+    {
+      "num": 10,
+      "type": "category_overview",
+      "category": "飞书/Lark",
+      "skills": [
+        "lark-approval",
+        "lark-apps",
+        "lark-attendance",
+        "lark-base",
+        "lark-calendar",
+        "lark-contact",
+        "lark-doc",
+        "lark-drive",
+        "lark-event",
+        "lark-im",
+        "lark-mail",
+        "lark-markdown",
+        "lark-minutes",
+        "lark-note",
+        "lark-okr",
+        "lark-openapi-explorer",
+        "lark-shared",
+        "lark-sheets",
+        "lark-skill-maker",
+        "lark-slides",
+        "lark-task",
+        "lark-vc",
+        "lark-vc-agent",
+        "lark-whiteboard",
+        "lark-wiki",
+        "lark-workflow-meeting-summary",
+        "lark-workflow-standup-report"
+      ],
+      "count": 27
+    },
+    {
+      "num": 11,
+      "type": "category_overview",
+      "category": "Notion",
+      "skills": [
+        "notion-knowledge-capture",
+        "notion-meeting-intelligence",
+        "notion-research-documentation",
+        "notion-spec-to-implementation"
+      ],
+      "count": 4
+    },
+    {
+      "num": 12,
+      "type": "category_overview",
+      "category": "开发工具",
+      "skills": [
+        "aspnet-core",
+        "cli-creator",
+        "dot-skill",
+        "figma",
+        "figma-code-connect-components",
+        "figma-create-design-system-rules",
+        "figma-create-new-file",
+        "figma-generate-design",
+        "figma-generate-library",
+        "figma-use",
+        "full-output-enforcement",
+        "json-repair",
+        "migrate-to-codex",
+        "open-notebook",
+        "openai-docs",
+        "playwright",
+        "playwright-interactive",
+        "winui-app",
+        "using-coze-cli"
+      ],
+      "count": 19
+    },
+    {
+      "num": 13,
+      "type": "category_overview",
+      "category": "Git/CI",
+      "skills": [
+        "babysit",
+        "gh-address-comments",
+        "gh-fix-ci",
+        "linear"
+      ],
+      "count": 4
+    },
+    {
+      "num": 14,
+      "type": "category_overview",
+      "category": "安全",
+      "skills": [
+        "security-best-practices",
+        "security-ownership-map",
+        "security-threat-model",
+        "sentry"
+      ],
+      "count": 4
+    },
+    {
+      "num": 15,
+      "type": "category_overview",
+      "category": "限流/控制",
+      "skills": [
+        "rate-limit-handler",
+        "request-rate-control"
+      ],
+      "count": 2
+    },
+    {
+      "num": 16,
+      "type": "category_overview",
+      "category": "地图/导航",
+      "skills": [
+        "map-navigate"
+      ],
+      "count": 1
+    },
+    {
+      "num": 17,
+      "type": "category_overview",
+      "category": "目标定义",
+      "skills": [
+        "define-goal"
+      ],
+      "count": 1
+    },
+    {
+      "num": 18,
+      "type": "category_overview",
+      "category": "视频",
+      "skills": [
+        "视频下载"
+      ],
+      "count": 1
+    },
+    {
+      "num": 19,
+      "type": "skill_detail",
+      "category": "数据/搜索",
+      "name": "a-stock-data",
+      "description": "A股全栈数据工具包 — 覆盖行情(mootdx+腾讯+百度K线)、研报(东财+同花顺+iwencai)、信号(同花顺热点+北向+龙虎榜+解禁+行业)、资金面(融资融券+大宗交易+股东户数+分红+资金流分钟级+资金流120日)、新闻(东财个股+全球资讯)、基础数据(mootdx财务/F10+东财+新浪三表)、公告(巨潮)七层数据源，内嵌全部调用代码，自包含零依赖外部文件。优先用通达信(mootdx)",
+      "trigger_keywords": "a stock data",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\a-stock-data"
+    },
+    {
+      "num": 20,
+      "type": "skill_detail",
+      "category": "数据/搜索",
+      "name": "agent-reach",
+      "description": ">",
+      "trigger_keywords": "agent reach",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\agent-reach"
+    },
+    {
+      "num": 21,
+      "type": "skill_detail",
+      "category": "数据/搜索",
+      "name": "ai-image-prompts-skill",
+      "description": "--- name: ai-image-prompts-skill description: |   Recommend curated prompts from a 10,000+ real-world image generation prompt library.   Works with ANY AI image model — Nano Banana Pro, Nano Banana 2,",
+      "trigger_keywords": "ai image prompts skill",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\ai-image-prompts-skill"
+    },
+    {
+      "num": 22,
+      "type": "skill_detail",
+      "category": "数据/搜索",
+      "name": "anysearch",
+      "description": "Real-time search engine supporting web search, vertical domain search, parallel batch search, and URL content extraction.",
+      "trigger_keywords": "anysearch",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\anysearch"
+    },
+    {
+      "num": 23,
+      "type": "skill_detail",
+      "category": "数据/搜索",
+      "name": "knowledge-agent",
+      "description": "Build and query AI-powered knowledge bases from claude-mem observations. Use when users want to create focused \"brains\" from their observation history, ask questions about past work patterns, or compi",
+      "trigger_keywords": "knowledge agent",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\knowledge-agent"
+    },
+    {
+      "num": 24,
+      "type": "skill_detail",
+      "category": "数据/搜索",
+      "name": "mem-search",
+      "description": "Search claude-mem's persistent cross-session memory database. Use when user asks \"did we already solve this?\", \"how did we do X last time?\", or needs work from previous sessions.",
+      "trigger_keywords": "mem search",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\mem-search"
+    },
+    {
+      "num": 25,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "design-taste-frontend",
+      "description": "Anti-slop frontend skill for landing pages, portfolios, and redesigns. The agent reads the brief, infers the right design direction, and ships interfaces that do not look templated. Real design system",
+      "trigger_keywords": "design taste frontend",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\design-taste-frontend"
+    },
+    {
+      "num": 26,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "frontend-design",
+      "description": "﻿This skill guides creation of distinctive, production-grade frontend interfaces that avoid generic \"AI slop\" aesthetics. Implement real working code with exceptional attention to aesthetic details an",
+      "trigger_keywords": "frontend design",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\frontend-design"
+    },
+    {
+      "num": 27,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "gpt-taste",
+      "description": "Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomization for layout variance, strict AIDA page structure, wide editorial typography (bans 6-line wraps), gapless bento gri",
+      "trigger_keywords": "gpt taste",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\gpt-taste"
+    },
+    {
+      "num": 28,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "high-end-visual-design",
+      "description": "Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animations that make a website feel expensive. Blocks all the common defaults that make",
+      "trigger_keywords": "high end visual design",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\high-end-visual-design"
+    },
+    {
+      "num": 29,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "impeccable",
+      "description": "Use when the user wants to design, redesign, shape, critique, audit, polish, clarify, distill, harden, optimize, adapt, animate, colorize, extract, or otherwise improve a frontend interface. Covers we",
+      "trigger_keywords": "impeccable",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\impeccable"
+    },
+    {
+      "num": 30,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "minimalist-ui",
+      "description": "Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels. No gradients, no heavy shadows.",
+      "trigger_keywords": "minimalist ui",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\minimalist-ui"
+    },
+    {
+      "num": 31,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "industrial-brutalist-ui",
+      "description": "Raw mechanical interfaces fusing Swiss typographic print with military terminal aesthetics. Rigid grids, extreme type scale contrast, utilitarian color, analog degradation effects. For data-heavy dash",
+      "trigger_keywords": "industrial brutalist ui",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\industrial-brutalist-ui"
+    },
+    {
+      "num": 32,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "stitch-design-taste",
+      "description": "Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.md files that enforce premium, anti-generic UI standards — strict typography, calibrated color, asymmetric layouts, perp",
+      "trigger_keywords": "stitch design taste",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\stitch-design-taste"
+    },
+    {
+      "num": 33,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "taste-skill",
+      "description": "无SKILL.md",
+      "trigger_keywords": "taste skill",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\taste-skill"
+    },
+    {
+      "num": 34,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "ui-ux-pro-max",
+      "description": "# {{TITLE}}  {{DESCRIPTION}} {{QUICK_REFERENCE}} # Prerequisites  Check if Python is installed:  ```bash python3 --version || python --version ```  If Python is not installed, install it based on user",
+      "trigger_keywords": "ui ux pro max",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\ui-ux-pro-max"
+    },
+    {
+      "num": 35,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "image-to-code",
+      "description": "Elite website image-to-code skill for Codex. For visually important web tasks, it must first generate the design image(s) itself, deeply analyze them, then implement the website to match them as close",
+      "trigger_keywords": "image to code",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\image-to-code"
+    },
+    {
+      "num": 36,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "redesign-existing-projects",
+      "description": "Upgrades existing websites and apps to premium quality. Audits current design, identifies generic AI patterns, and applies high-end design standards without breaking functionality. Works with any CSS ",
+      "trigger_keywords": "redesign existing projects",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\redesign-existing-projects"
+    },
+    {
+      "num": 37,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "imagegen-frontend-web",
+      "description": "Elite frontend image-direction skill for generating premium, conversion-aware website design references. CRITICAL OUTPUT RULE — generate ONE separate horizontal image FOR EVERY section. A landing page",
+      "trigger_keywords": "imagegen frontend web",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\imagegen-frontend-web"
+    },
+    {
+      "num": 38,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "imagegen-frontend-mobile",
+      "description": "Elite mobile app image-generation skill for creating premium, app-native screen concepts and flows. Designed for iOS, Android, and cross-platform mobile products. Prioritizes clean hierarchy, comforta",
+      "trigger_keywords": "imagegen frontend mobile",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\imagegen-frontend-mobile"
+    },
+    {
+      "num": 39,
+      "type": "skill_detail",
+      "category": "图片/视觉",
+      "name": "imagegen-free",
+      "description": "Free AI image generation using Pollinations.ai — no API key required. Use when the built-in image_gen tool is unavailable, OPENAI_API_KEY is not set, or the user asks to generate images without an API",
+      "trigger_keywords": "imagegen free",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\imagegen-free"
+    },
+    {
+      "num": 40,
+      "type": "skill_detail",
+      "category": "图片/视觉",
+      "name": "brandkit",
+      "description": "Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world presentations. Trained for minimalist, cinematic, editorial, dark",
+      "trigger_keywords": "brandkit",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\brandkit"
+    },
+    {
+      "num": 41,
+      "type": "skill_detail",
+      "category": "图片/视觉",
+      "name": "hatch-pet",
+      "description": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company or prospect brand cues, or visual references. Use w",
+      "trigger_keywords": "hatch pet",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\hatch-pet"
+    },
+    {
+      "num": 42,
+      "type": "skill_detail",
+      "category": "图片/视觉",
+      "name": "screenshot",
+      "description": "Use when the user explicitly asks for a desktop or system screenshot (full screen, specific app or window, or a pixel region), or when tool-specific capture capabilities are unavailable and an OS-leve",
+      "trigger_keywords": "screenshot",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\screenshot"
+    },
+    {
+      "num": 43,
+      "type": "skill_detail",
+      "category": "文档/办公",
+      "name": "doc-excel-toolkit",
+      "description": "Analyze local documents (PDF, DOCX, TXT) and process Excel spreadsheets (XLSX, XLS, CSV). Supports reading, extracting, summarizing, and creating/modifying files.",
+      "trigger_keywords": "doc excel toolkit",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\doc-excel-toolkit"
+    },
+    {
+      "num": 44,
+      "type": "skill_detail",
+      "category": "文档/办公",
+      "name": "pdf",
+      "description": "Use when tasks involve reading, creating, or reviewing PDF files where rendering and layout matter; prefer visual checks by rendering pages (Poppler) and use Python tools such as `reportlab`, `pdfplum",
+      "trigger_keywords": "pdf",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\pdf"
+    },
+    {
+      "num": 45,
+      "type": "skill_detail",
+      "category": "文档/办公",
+      "name": "speech",
+      "description": "Use when the user asks for text-to-speech narration or voiceover, accessibility reads, audio prompts, or batch speech generation via the OpenAI Audio API; run the bundled CLI (`scripts/text_to_speech.",
+      "trigger_keywords": "speech",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\speech"
+    },
+    {
+      "num": 46,
+      "type": "skill_detail",
+      "category": "文档/办公",
+      "name": "transcribe",
+      "description": "Transcribe audio files to text with optional diarization and known-speaker hints. Use when a user asks to transcribe speech from audio/video, extract text from recordings, or label speakers in intervi",
+      "trigger_keywords": "transcribe",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\transcribe"
+    },
+    {
+      "num": 47,
+      "type": "skill_detail",
+      "category": "文档/办公",
+      "name": "jupyter-notebook",
+      "description": "Use when the user asks to create, scaffold, or edit Jupyter notebooks (`.ipynb`) for experiments, explorations, or tutorials; prefer the bundled templates and run the helper script `new_notebook.py` t",
+      "trigger_keywords": "jupyter notebook",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\jupyter-notebook"
+    },
+    {
+      "num": 48,
+      "type": "skill_detail",
+      "category": "PPT",
+      "name": "GordenImage2PPTX",
+      "description": ">-",
+      "trigger_keywords": "GordenImage2PPTX",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\GordenImage2PPTX"
+    },
+    {
+      "num": 49,
+      "type": "skill_detail",
+      "category": "PPT",
+      "name": "GordenImagePPTGen",
+      "description": ">-",
+      "trigger_keywords": "GordenImagePPTGen",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\GordenImagePPTGen"
+    },
+    {
+      "num": 50,
+      "type": "skill_detail",
+      "category": "PPT",
+      "name": "GordenSuperPPTSkill",
+      "description": ">-",
+      "trigger_keywords": "GordenSuperPPTSkill",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\GordenSuperPPTSkill"
+    },
+    {
+      "num": 51,
+      "type": "skill_detail",
+      "category": "PPT",
+      "name": "guizang-ppt-skill",
+      "description": "生成横向翻页网页 PPT（单 HTML 文件），含 WebGL 背景、章节幕封、数据大字报、图片网格等模板。提供两种风格：① \"电子杂志 × 电子墨水\"（衬线 + 流体背景 + 暖色） ② \"瑞士国际主义\"（无衬线 + 网格点阵 + IKB/柠檬黄/柠檬绿/安全橙高亮）。当用户需要制作分享 / 演讲 / 发布会风格的网页 PPT，或提到\"杂志风 PPT\"、\"瑞士风 PPT\"、\"Swiss Styl",
+      "trigger_keywords": "guizang ppt skill",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\guizang-ppt-skill"
+    },
+    {
+      "num": 52,
+      "type": "skill_detail",
+      "category": "写作",
+      "name": "khazix-writer",
+      "description": "无SKILL.md",
+      "trigger_keywords": "khazix writer",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\khazix-writer"
+    },
+    {
+      "num": 53,
+      "type": "skill_detail",
+      "category": "写作",
+      "name": "humanizer-zh",
+      "description": "--- name: humanizer-zh description: |   去除文本中的 AI 生成痕迹。适用于编辑或审阅文本，使其听起来更自然、更像人类书写。   基于维基百科的\"AI 写作特征\"综合指南。检测并修复以下模式：夸大的象征意义、   宣传性语言、以 -ing 结尾的肤浅分析、模糊的归因、破折号过度使用、三段式法则、   AI 词汇、否定式排比、过多的连接性短语。 allowed",
+      "trigger_keywords": "humanizer zh",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\humanizer-zh"
+    },
+    {
+      "num": 54,
+      "type": "skill_detail",
+      "category": "写作",
+      "name": "stop-slop",
+      "description": "Remove AI writing patterns from prose. Use when drafting, editing, or reviewing text to eliminate predictable AI tells.",
+      "trigger_keywords": "stop slop",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\stop-slop"
+    },
+    {
+      "num": 55,
+      "type": "skill_detail",
+      "category": "部署",
+      "name": "vercel-deploy",
+      "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\".",
+      "trigger_keywords": "vercel deploy",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\vercel-deploy"
+    },
+    {
+      "num": 56,
+      "type": "skill_detail",
+      "category": "部署",
+      "name": "netlify-deploy",
+      "description": "Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, or link a site/repo on Netlify, including preview and production deploys.",
+      "trigger_keywords": "netlify deploy",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\netlify-deploy"
+    },
+    {
+      "num": 57,
+      "type": "skill_detail",
+      "category": "部署",
+      "name": "cloudflare-deploy",
+      "description": "Deploy applications and infrastructure to Cloudflare using Workers, Pages, and related platform services. Use when the user asks to deploy, host, publish, or set up a project on Cloudflare.",
+      "trigger_keywords": "cloudflare deploy",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\cloudflare-deploy"
+    },
+    {
+      "num": 58,
+      "type": "skill_detail",
+      "category": "部署",
+      "name": "render-deploy",
+      "description": "Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints, and providing Dashboard deeplinks. Use when the user wants to deploy, host, publish, or set up their applicatio",
+      "trigger_keywords": "render deploy",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\render-deploy"
+    },
+    {
+      "num": 59,
+      "type": "skill_detail",
+      "category": "部署",
+      "name": "yeet",
+      "description": "Use only when the user explicitly asks to stage, commit, push, and open a GitHub pull request in one flow using the GitHub CLI (`gh`).",
+      "trigger_keywords": "yeet",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\yeet"
+    },
+    {
+      "num": 60,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-approval",
+      "description": "飞书审批：查询和处理审批待办/已办/实例，搜索可发起审批定义、查看定义详情并发起原生审批实例。当用户要处理审批任务、查看审批实例、搜索或发起审批时使用。审批待办不是飞书任务；非审批类待办走 lark-task。不负责创建审批定义；三方审批定义不走原生提单。",
+      "trigger_keywords": "lark approval",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-approval"
+    },
+    {
+      "num": 61,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-apps",
+      "description": "妙搭（Spark/Miaoda）应用开发与托管：应用创建、HTML静态站点发布、本地全栈开发、云端生成迭代、AI相关能力和飞书平台能力或者其他外部能力集成、日志/Trace/监控指标/PV/UV 查询、环境变量管理。当用户要开发/新建一个系统·工具·平台·应用，或要本地开发 / 云端开发 / 修改 / 部署 / 发布 / 上线 / 拿可分享链接，或用 HTML 做页面·网站·部署到妙搭，或提到妙搭",
+      "trigger_keywords": "lark apps",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-apps"
+    },
+    {
+      "num": 62,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-attendance",
+      "description": "飞书考勤打卡：查询自己的考勤打卡记录",
+      "trigger_keywords": "lark attendance",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-attendance"
+    },
+    {
+      "num": 63,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-base",
+      "description": "飞书多维表格（Base）操作：建表、字段、记录、视图、统计、公式/lookup、表单、仪表盘、workflow、角色权限；遇到 Base/多维表格/bitable 或 /base/ 链接时使用。文件导入转 lark-drive，认证/授权转 lark-shared。",
+      "trigger_keywords": "lark base",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-base"
+    },
+    {
+      "num": 64,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-calendar",
+      "description": "飞书日历：管理日历日程和会议室。查看/搜索日程、创建/更新日程、管理参会人、查询忙闲和推荐时段、预定会议室。当用户需要查看日程安排、创建/修改会议、查询/预定会议室时使用。不负责：查询过去的视频会议记录（走 lark-vc）、待办任务（走 lark-task）。",
+      "trigger_keywords": "lark calendar",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-calendar"
+    },
+    {
+      "num": 65,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-contact",
+      "description": "飞书 / Lark 通讯录:按姓名 / 邮箱解析成 open_id,或按 open_id 反查姓名 / 部门 / 邮箱 / 联系方式 / 个人状态 / 签名。当用户提到某人姓名要下一步发消息 / 排日程,或拿到 open_id 想查具体信息时使用。不负责部门树遍历、按部门列员工、组织架构图,这类需求走原生 OpenAPI。",
+      "trigger_keywords": "lark contact",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-contact"
+    },
+    {
+      "num": 66,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-doc",
+      "description": "飞书云文档（Docx / Wiki 文档）：读取和编辑飞书文档内容。当用户给出文档 URL 或 token，或需要查看、创建、编辑文档、插入或下载文档图片附件时使用。文档中嵌入的电子表格、多维表格、画板，先用本 skill 提取 token 再切到对应 skill。当用户给出 doubao.com 的 /docx/ 或 /wiki/ URL/token 时，也应直接使用本 skill；路由依据是 ",
+      "trigger_keywords": "lark doc",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-doc"
+    },
+    {
+      "num": 67,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-drive",
+      "description": "飞书云空间（云盘/云存储）：管理 Drive 文件和文件夹，包含上传/下载、创建文件夹、复制/移动/删除、查看元数据、评论/权限/订阅、标题、版本和本地文件导入。用户需要整理云盘目录、处理云空间资源 URL/token，或导入 Word/Markdown/Excel/CSV/PPTX/.base 为 docx/sheet/bitable/slides 时使用；doubao.com 云空间 URL/",
+      "trigger_keywords": "lark drive",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-drive"
+    },
+    {
+      "num": 68,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-event",
+      "description": "Lark/Feishu real-time event listening / subscribing / consuming: stream events as NDJSON via `lark-cli event consume <EventKey>` (covers IM messages/reactions/chat changes, Task updates, VC meeting st",
+      "trigger_keywords": "lark event",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-event"
+    },
+    {
+      "num": 69,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-im",
+      "description": "飞书即时通讯：收发消息和管理群聊。发送和回复消息、搜索聊天记录、管理群聊成员、上传下载图片和文件（支持大文件分片下载）、管理表情回复、发送应用内/短信/电话加急、发送和处理交互卡片（Interactive Card）、监听卡片按钮回调（card.action.trigger）。当用户需要发消息、查看或搜索聊天记录、下载聊天中的文件、查看群成员、搜索群、创建群聊或话题群、管理标记数据、管理 Feed",
+      "trigger_keywords": "lark im",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-im"
+    },
+    {
+      "num": 70,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-mail",
+      "description": "飞书邮箱：Use when user mentions 起草邮件、写邮件、草稿、发送/回复/转发邮件、查阅邮件、看邮件、搜索邮件、邮件文件夹、邮件标签、邮件联系人、监听新邮件、邮件收信规则等；use for mail/email intent only. Do not use for docs/sheets/calendar/auth setup/pure contact lookup/IM ch",
+      "trigger_keywords": "lark mail",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-mail"
+    },
+    {
+      "num": 71,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-markdown",
+      "description": "飞书 Markdown：查看、创建、上传、编辑和比较 Markdown 文件。当用户需要创建或编辑 Markdown 文件、读取、修改、局部 patch 或比较差异时使用。不负责将 Markdown 导入为飞书在线文档，也不负责文件搜索、权限、评论、移动、删除等云空间管理操作。",
+      "trigger_keywords": "lark markdown",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-markdown"
+    },
+    {
+      "num": 72,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-minutes",
+      "description": "飞书妙记：搜索妙记、查看妙记基础信息、下载/上传音视频、读取或编辑妙记的产物内容、改标题、替换说话人/关键词。当给出minute_token、本地音视频文件，要查/改/转妙记产物时使用；本地音视频转纪要/逐字稿优先走本 skill，不要用 ffmpeg/whisper 本地转写。不负责：获取会议关联妙记，或仅按自然语言标题定位纪要",
+      "trigger_keywords": "lark minutes",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-minutes"
+    },
+    {
+      "num": 73,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-note",
+      "description": "飞书会议纪要（Note）直查：已知 note_id 时查询纪要详情、展示类型、关联文档 token，并读取 unified 原始逐字记录。当用户已持有 note_id，或从文档显式 vc-node-id 获得 note_id 时使用。不负责会议/日程/妙记定位、文档标题搜索或 Docx 正文读取。",
+      "trigger_keywords": "lark note",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-note"
+    },
+    {
+      "num": 74,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-okr",
+      "description": "飞书 OKR：管理目标与关键结果。查看和编辑 OKR 周期、目标、关键结果、对齐关系、量化指标和进展记录。当用户需要查看或创建 OKR、管理目标和关键结果、查看对齐关系时使用。不负责：待办任务管理（lark-task）、日程/会议安排（lark-calendar）、绩效评估",
+      "trigger_keywords": "lark okr",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-okr"
+    },
+    {
+      "num": 75,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-openapi-explorer",
+      "description": "飞书/Lark 原生 OpenAPI 探索：从官方文档库中挖掘未经 CLI 封装的原生 OpenAPI 接口。当用户的需求无法被现有 lark-* skill 或 lark-cli 已注册命令满足，需要查找并调用原生飞书 OpenAPI 时使用。",
+      "trigger_keywords": "lark openapi explorer",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-openapi-explorer"
+    },
+    {
+      "num": 76,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-shared",
+      "description": "Use for lark-cli setup/auth tasks: auth login/status/logout, user vs bot identity, business-domain permissions (--domain, including all/docs/drive), missing scopes, revoking authorization, or handling",
+      "trigger_keywords": "lark shared",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-shared"
+    },
+    {
+      "num": 77,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-sheets",
+      "description": "飞书电子表格：创建和操作电子表格。支持创建表格、管理工作表与行列结构（增删/合并/调整尺寸/隐藏/冻结）、读写单元格（值/公式/样式/批注/单元格图片）、查找替换、多操作原子批量更新，以及图表、透视表、条件格式、筛选器、迷你图、浮动图片等对象的创建与维护。当用户需要创建电子表格、管理工作表、批量读写或编辑数据、统计汇总与可视化、表格美化、公式计算（含 Excel 公式迁移）、金融/财务建模（DCF",
+      "trigger_keywords": "lark sheets",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-sheets"
+    },
+    {
+      "num": 78,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-skill-maker",
+      "description": "创建 lark-cli 的自定义 Skill。当用户需要把飞书 API 操作封装成可复用的 Skill（包装原子 API 或编排多步流程）时使用。",
+      "trigger_keywords": "lark skill maker",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-skill-maker"
+    },
+    {
+      "num": 79,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-slides",
+      "description": "飞书幻灯片：创建和编辑幻灯片。创建演示文稿、读取幻灯片内容、管理幻灯片页面（创建、删除、读取、局部替换）。当用户需要创建或编辑幻灯片、读取或修改单个页面时使用。当用户给出 doubao.com 的 /slides/ URL/token 时，也应直接使用本 skill，不要因为域名不是飞书而回退到 WebFetch；路由依据是 URL 路径模式和 token，而不是域名。不负责：云文档内容编辑（走 ",
+      "trigger_keywords": "lark slides",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-slides"
+    },
+    {
+      "num": 80,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-task",
+      "description": "飞书任务：管理任务、清单和任务智能体。创建待办任务、查看和更新任务状态、拆分子任务、组织任务清单、分配协作成员、上传任务附件、注册或注销任务智能体、更新任务智能体的主页数据、写入智能体任务记录。当用户需要创建待办事项、查看任务列表、跟踪任务进度、管理项目清单或给他人分配任务、为任务上传附件文件、注册注销任务智能体、更新智能体主页数据、写入任务记录时使用。",
+      "trigger_keywords": "lark task",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-task"
+    },
+    {
+      "num": 81,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-vc",
+      "description": "飞书视频会议：搜索历史会议记录、查询会议纪要（总结/待办/章节/逐字稿）、查询参会人快照。当用户查询已结束的会议、获取会议产物（纪要/妙记）、查看参会人时使用；查询未来日程走 lark-calendar。不负责：Agent 真实入会/离会、会中实时事件（走 lark-vc-agent）。",
+      "trigger_keywords": "lark vc",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-vc"
+    },
+    {
+      "num": 82,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-vc-agent",
+      "description": "飞书视频会议会中能力：用于让应用机器人真实加入或离开正在进行的会议，并读取当前身份可见的会中事件、发送会中文本消息或会中表情。适用于用户询问正在开的会议发生了什么、谁在发言、是否共享内容，或需要发现当前可读的进行中会议 ID。不负责已结束会议搜索、参会人快照、纪要、逐字稿或录制查询，这些使用 lark-vc 技能。",
+      "trigger_keywords": "lark vc agent",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-vc-agent"
+    },
+    {
+      "num": 83,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-whiteboard",
+      "description": ">",
+      "trigger_keywords": "lark whiteboard",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-whiteboard"
+    },
+    {
+      "num": 84,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-wiki",
+      "description": "飞书知识库：管理知识空间、空间成员和文档节点。创建和查询知识空间、查看和管理空间成员、管理节点层级结构、在知识库中组织文档和快捷方式。当用户需要在知识库中查找或创建文档、浏览知识空间结构、查看或管理空间成员、移动或复制节点时使用。当用户给出 doubao.com 的 /wiki/ URL/token 时，也应直接使用本 skill，不要因为域名不是飞书而回退到 WebFetch；路由依据是 URL",
+      "trigger_keywords": "lark wiki",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-wiki"
+    },
+    {
+      "num": 85,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-workflow-meeting-summary",
+      "description": "会议纪要整理工作流：汇总指定时间范围内的会议纪要并生成结构化报告。当用户需要整理会议纪要、生成会议周报、回顾一段时间内的会议内容时使用。",
+      "trigger_keywords": "lark workflow meeting summary",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-workflow-meeting-summary"
+    },
+    {
+      "num": 86,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-workflow-standup-report",
+      "description": "日程待办摘要：编排 calendar +agenda 和 task +get-my-tasks，生成指定日期的日程与未完成任务摘要。适用于了解今天/明天/本周的安排。",
+      "trigger_keywords": "lark workflow standup report",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-workflow-standup-report"
+    },
+    {
+      "num": 87,
+      "type": "skill_detail",
+      "category": "Notion",
+      "name": "notion-knowledge-capture",
+      "description": "Capture conversations and decisions into structured Notion pages; use when turning chats/notes into wiki entries, how-tos, decisions, or FAQs with proper linking.",
+      "trigger_keywords": "notion knowledge capture",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\notion-knowledge-capture"
+    },
+    {
+      "num": 88,
+      "type": "skill_detail",
+      "category": "Notion",
+      "name": "notion-meeting-intelligence",
+      "description": "Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads, and tailoring materials to attendees.",
+      "trigger_keywords": "notion meeting intelligence",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\notion-meeting-intelligence"
+    },
+    {
+      "num": 89,
+      "type": "skill_detail",
+      "category": "Notion",
+      "name": "notion-research-documentation",
+      "description": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.",
+      "trigger_keywords": "notion research documentation",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\notion-research-documentation"
+    },
+    {
+      "num": 90,
+      "type": "skill_detail",
+      "category": "Notion",
+      "name": "notion-spec-to-implementation",
+      "description": "Turn Notion specs into implementation plans, tasks, and progress tracking; use when implementing PRDs/feature specs and creating Notion plans + tasks from them.",
+      "trigger_keywords": "notion spec to implementation",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\notion-spec-to-implementation"
+    },
+    {
+      "num": 91,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "aspnet-core",
+      "description": "Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET web development. Use when working on Blazor Web Apps, Razor Pages, MVC, Minimal APIs, contr",
+      "trigger_keywords": "aspnet core",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\aspnet-core"
+    },
+    {
+      "num": 92,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "cli-creator",
+      "description": "Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples, an SDK, a web app, an admin tool, or a local script. Use when the user wants Codex to create a command-line too",
+      "trigger_keywords": "cli creator",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\cli-creator"
+    },
+    {
+      "num": 93,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "dot-skill",
+      "description": "Unified meta-skill engine for distilling colleague, relationship, or celebrity characters into reusable Skills. | 统一的 meta-skill 引擎，把 colleague、relationship、celebrity 三类对象蒸馏成可复用 Skill。",
+      "trigger_keywords": "dot skill",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\dot-skill"
+    },
+    {
+      "num": 94,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma",
+      "description": "Use the Figma MCP server to fetch design context, screenshots, variables, and assets from Figma, and to translate Figma nodes into production code. Trigger when a task involves Figma URLs, node IDs, d",
+      "trigger_keywords": "figma",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma"
+    },
+    {
+      "num": 95,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma-code-connect-components",
+      "description": "Connects Figma design components to code components using Code Connect mapping tools. Use when user says \"code connect\", \"connect this component to code\", \"map this component\", \"link component to code",
+      "trigger_keywords": "figma code connect components",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma-code-connect-components"
+    },
+    {
+      "num": 96,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma-create-design-system-rules",
+      "description": "Generates custom design system rules for the user's codebase. Use when user says \"create design system rules\", \"generate rules for my project\", \"set up design rules\", \"customize design system guidelin",
+      "trigger_keywords": "figma create design system rules",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma-create-design-system-rules"
+    },
+    {
+      "num": 97,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma-create-new-file",
+      "description": "Create a new blank Figma file. Use when the user wants to create a new Figma design or FigJam file, or when you need a new file before calling use_figma. Handles plan resolution via whoami if needed. ",
+      "trigger_keywords": "figma create new file",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma-create-new-file"
+    },
+    {
+      "num": 98,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma-generate-design",
+      "description": "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout into Figma. Triggers: 'write to Figma', 'create in Figma from code', 'push page",
+      "trigger_keywords": "figma generate design",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma-generate-design"
+    },
+    {
+      "num": 99,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma-generate-library",
+      "description": "Build or update a professional-grade design system in Figma from a codebase. Use when the user wants to create variables/tokens, build component libraries, set up theming (light/dark modes), document ",
+      "trigger_keywords": "figma generate library",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma-generate-library"
+    },
+    {
+      "num": 100,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma-use",
+      "description": "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool call. NEVER call `use_figma` directly without loading this skill first. Skipping it causes common, hard-to-debug f",
+      "trigger_keywords": "figma use",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma-use"
+    },
+    {
+      "num": 101,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "full-output-enforcement",
+      "description": "Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and handles token-limit splits cleanly. Apply to any task requiring exhaustive, unabridged outp",
+      "trigger_keywords": "full output enforcement",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\full-output-enforcement"
+    },
+    {
+      "num": 102,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "json-repair",
+      "description": ">",
+      "trigger_keywords": "json repair",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\json-repair"
+    },
+    {
+      "num": 103,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "migrate-to-codex",
+      "description": "Migrate supported instruction files, skills, agents, and MCP config into Codex project and global files.",
+      "trigger_keywords": "migrate to codex",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\migrate-to-codex"
+    },
+    {
+      "num": 104,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "open-notebook",
+      "description": "Interact with Open Notebook (lfnovo/open-notebook) via REST API — search knowledge bases, manage sources/notes, chat with notebooks, generate podcasts, and configure models",
+      "trigger_keywords": "open notebook",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\open-notebook"
+    },
+    {
+      "num": 105,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "openai-docs",
+      "description": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, needs up-to-date official documentation with citations, help choosing the latest m",
+      "trigger_keywords": "openai docs",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\openai-docs"
+    },
+    {
+      "num": 106,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "playwright",
+      "description": "Use when the task requires automating a real browser from the terminal (navigation, form filling, snapshots, screenshots, data extraction, UI-flow debugging) via `playwright-cli` or the bundled wrappe",
+      "trigger_keywords": "playwright",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\playwright"
+    },
+    {
+      "num": 107,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "playwright-interactive",
+      "description": "Persistent browser and Electron interaction through `js_repl` for fast iterative UI debugging.",
+      "trigger_keywords": "playwright interactive",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\playwright-interactive"
+    },
+    {
+      "num": 108,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "winui-app",
+      "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery patterns, Windows App SDK samples, and CommunityTool",
+      "trigger_keywords": "winui app",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\winui-app"
+    },
+    {
+      "num": 109,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "using-coze-cli",
+      "description": "Coze CLI（coze 命令）统一入口与共享基础，使用任何 coze 能力前必读（登录授权、组织/空间、配置、错误码与权限排查）。四个子模块：coze code（创建/迭代网页·App·小程序·Agent·工作流等编程项目、发需求、预览、部署、环境变量/域名/数据库）、coze session（Claw 对话、PPT、播客、长任务产物）、coze generate（图片/语音 TTS/视频生成",
+      "trigger_keywords": "using coze cli",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\using-coze-cli"
+    },
+    {
+      "num": 110,
+      "type": "skill_detail",
+      "category": "Git/CI",
+      "name": "babysit",
+      "description": "Watch a pull request or review cycle until it is ready to merge. Use when asked to babysit, monitor, or keep checking PR comments, reviews, and CI until all actionable issues are resolved.",
+      "trigger_keywords": "babysit",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\babysit"
+    },
+    {
+      "num": 111,
+      "type": "skill_detail",
+      "category": "Git/CI",
+      "name": "gh-address-comments",
+      "description": "Help address review/issue comments on the open GitHub PR for the current branch using gh CLI; verify gh auth first and prompt the user to authenticate if not logged in.",
+      "trigger_keywords": "gh address comments",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\gh-address-comments"
+    },
+    {
+      "num": 112,
+      "type": "skill_detail",
+      "category": "Git/CI",
+      "name": "gh-fix-ci",
+      "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after exp",
+      "trigger_keywords": "gh fix ci",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\gh-fix-ci"
+    },
+    {
+      "num": 113,
+      "type": "skill_detail",
+      "category": "Git/CI",
+      "name": "linear",
+      "description": "Manage issues, projects & team workflows in Linear. Use when the user wants to read, create or updates tickets in Linear.",
+      "trigger_keywords": "linear",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\linear"
+    },
+    {
+      "num": 114,
+      "type": "skill_detail",
+      "category": "安全",
+      "name": "security-best-practices",
+      "description": "Perform language and framework specific security best-practice reviews and suggest improvements. Trigger only when the user explicitly requests security best practices guidance, a security review/repo",
+      "trigger_keywords": "security best practices",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\security-best-practices"
+    },
+    {
+      "num": 115,
+      "type": "skill_detail",
+      "category": "安全",
+      "name": "security-ownership-map",
+      "description": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Trigger on",
+      "trigger_keywords": "security ownership map",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\security-ownership-map"
+    },
+    {
+      "num": 116,
+      "type": "skill_detail",
+      "category": "安全",
+      "name": "security-threat-model",
+      "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the use",
+      "trigger_keywords": "security threat model",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\security-threat-model"
+    },
+    {
+      "num": 117,
+      "type": "skill_detail",
+      "category": "安全",
+      "name": "sentry",
+      "description": "Use when the user asks to inspect Sentry issues or events, summarize recent production errors, or pull basic Sentry health data via the Sentry CLI; perform read-only queries using the `sentry` command",
+      "trigger_keywords": "sentry",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\sentry"
+    },
+    {
+      "num": 118,
+      "type": "skill_detail",
+      "category": "限流/控制",
+      "name": "rate-limit-handler",
+      "description": "自动处理 429 Too Many Requests 错误，采用指数退避 + 随机抖动策略重试。适用于所有 AI API 调用场景（OpenAI、Claude、本地模型等）。当出现 \"exceeded retry limit, last status: 429\"、\"rate limit\"、\"Too Many Requests\"、\"限速\"、\"频率限制\" 等错误时自动触发。也适用于用户主动要求\"加个重",
+      "trigger_keywords": "rate limit handler",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\rate-limit-handler"
+    },
+    {
+      "num": 119,
+      "type": "skill_detail",
+      "category": "限流/控制",
+      "name": "request-rate-control",
+      "description": "# Request Rate Control — AI 请求频率控制 Skill  ## 触发条件 当用户涉及以下场景时自动加载： - 构建 AI 驱动的应用（聊天、搜索、问答、生成） - 对接大模型 API（OpenAI、Claude、本地模型等） - 提到\"控制请求次数\"、\"限流\"、\"防抖\"、\"缓存\"、\"成本控制\" - 构建网站/应用需要调用外部 AI 服务  ## 核心原则  AI 请求是*",
+      "trigger_keywords": "request rate control",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\request-rate-control"
+    },
+    {
+      "num": 120,
+      "type": "skill_detail",
+      "category": "地图/导航",
+      "name": "map-navigate",
+      "description": "Move toward a requested target location or perform a requested interaction if already there.",
+      "trigger_keywords": "map navigate",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\map-navigate"
+    },
+    {
+      "num": 121,
+      "type": "skill_detail",
+      "category": "目标定义",
+      "name": "define-goal",
+      "description": "Help the user define a concrete, measurable goal before starting work, especially when they ask to use the goal tool, create a goal, set an objective, clarify success criteria, or turn a fuzzy intenti",
+      "trigger_keywords": "define goal",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\define-goal"
+    },
+    {
+      "num": 122,
+      "type": "skill_detail",
+      "category": "视频",
+      "name": "视频下载",
+      "description": "Download videos from web pages, Douyin, Bilibili, YouTube, and 1000+ other sites. Use when the user provides a video URL and wants to download it, or when scraping videos from a webpage. Supports plat",
+      "trigger_keywords": "视频下载",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\视频下载"
+    },
+    {
+      "num": 123,
+      "type": "skill_detail",
+      "category": "开发流程",
+      "name": "superpowers",
+      "description": "15 个子技能组成的开发流程套件：brainstorming, writing-plans, test-driven-development, subagent-driven-development, dispatching-parallel-agents, using-git-worktrees, systematic-debugging, verification-before-completion, requesting-code-review, receiving-code-review, finishing-a-development-branch, executing-plans, writing-skills",
+      "trigger_keywords": "superpowers 开发流程 技能集",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\superpowers"
+    },
+    {
+      "num": 124,
+      "type": "skill_detail",
+      "category": "设计系统",
+      "name": "taste-skill",
+      "description": "品味技能集合集：brandkit, design-taste-frontend, gpt-taste, high-end-visual-design, image-to-code, imagegen-frontend-mobile, imagegen-frontend-web, industrial-brutalist-ui, minimalist-ui, redesign-existing-projects, stitch-design-taste",
+      "trigger_keywords": "taste-skill 品味 设计",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\taste-skill"
+    },
+    {
+      "num": 125,
+      "type": "skill_detail",
+      "category": "设计工具",
+      "name": "figma 全家桶",
+      "description": "figma + figma-use + figma-generate-design + figma-generate-library + figma-code-connect-components + figma-create-design-system-rules + figma-create-new-file + figma-generate-library — 完整的 Figma 设计到代码工作流",
+      "trigger_keywords": "figma 设计组件 变量",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma"
+    },
+    {
+      "num": 126,
+      "type": "skill_detail",
+      "category": "飞书集成",
+      "name": "lark 审批流",
+      "description": "lark-approval + lark-workflow-meeting-summary + lark-workflow-standup-report — 飞书审批和工作流自动化",
+      "trigger_keywords": "飞书审批 工作流",
+      "path": "C:\\Users\\Administrator\\.agents\\skills\\lark-approval"
+    },
+    {
+      "num": 127,
+      "type": "skill_detail",
+      "category": "飞书集成",
+      "name": "lark 文档流",
+      "description": "lark-doc + lark-drive + lark-markdown + lark-slides + lark-sheets + lark-base + lark-whiteboard + lark-wiki — 飞书文档和数据处理",
+      "trigger_keywords": "飞书文档 表格 幻灯片",
+      "path": "C:\\Users\\Administrator\\.agents\\skills\\lark-doc"
+    },
+    {
+      "num": 128,
+      "type": "skill_detail",
+      "category": "飞书集成",
+      "name": "lark 通讯流",
+      "description": "lark-im + lark-mail + lark-calendar + lark-task + lark-attendance + lark-contact + lark-event + lark-vc + lark-vc-agent + lark-minutes + lark-note — 飞书通讯和协作",
+      "trigger_keywords": "飞书消息 邮件 日历 任务",
+      "path": "C:\\Users\\Administrator\\.agents\\skills\\lark-im"
+    },
+    {
+      "num": 129,
+      "type": "skill_detail",
+      "category": "Notion集成",
+      "name": "notion 全家桶",
+      "description": "notion-knowledge-capture + notion-meeting-intelligence + notion-research-documentation + notion-spec-to-implementation — Notion 知识管理和文档工作流",
+      "trigger_keywords": "notion 知识 会议 研究",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\notion-knowledge-capture"
+    },
+    {
+      "num": 130,
+      "type": "skill_detail",
+      "category": "安全工具",
+      "name": "security 全家桶",
+      "description": "security-best-practices + security-ownership-map + security-threat-model + codex-security — 安全扫描、威胁建模、漏洞修复全流程",
+      "trigger_keywords": "安全 扫描 威胁建模 漏洞",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\security-best-practices"
+    },
+    {
+      "num": 131,
+      "type": "skill_detail",
+      "category": "浏览器自动化",
+      "name": "playwright 全家桶",
+      "description": "playwright + playwright-interactive — 浏览器自动化测试和交互调试",
+      "trigger_keywords": "playwright 浏览器 自动化 测试",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\playwright"
+    },
+    {
+      "num": 132,
+      "type": "skill_detail",
+      "category": "PPT工具",
+      "name": "gorden PPT 全家桶",
+      "description": "GordenSuperPPTSkill + GordenImagePPTGen + GordenImage2PPTX — 图片版PPT生成 + 可编辑PPT还原，端到端全流程",
+      "trigger_keywords": "ppt PPT 幻灯片 图片转可编辑",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\GordenSuperPPTSkill"
+    },
+    {
+      "num": 133,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "cloudflare",
+      "description": "cloudflare 插件",
+      "trigger_keywords": "cloudflare",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\cloudflare"
+    },
+    {
+      "num": 134,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "digitalocean",
+      "description": "digitalocean 插件",
+      "trigger_keywords": "digitalocean",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\digitalocean"
+    },
+    {
+      "num": 135,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "hostinger",
+      "description": "hostinger 插件",
+      "trigger_keywords": "hostinger",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\hostinger"
+    },
+    {
+      "num": 136,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "netlify",
+      "description": "netlify 插件",
+      "trigger_keywords": "netlify",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\netlify"
+    },
+    {
+      "num": 137,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "vercel",
+      "description": "vercel 插件",
+      "trigger_keywords": "vercel",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\vercel"
+    },
+    {
+      "num": 138,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "render",
+      "description": "render 插件",
+      "trigger_keywords": "render",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\render"
+    },
+    {
+      "num": 139,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "supabase",
+      "description": "supabase 插件",
+      "trigger_keywords": "supabase",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\supabase"
+    },
+    {
+      "num": 140,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "neon-postgres",
+      "description": "neon-postgres 插件",
+      "trigger_keywords": "neon-postgres",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\neon-postgres"
+    },
+    {
+      "num": 141,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "expo",
+      "description": "expo 插件",
+      "trigger_keywords": "expo",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\expo"
+    },
+    {
+      "num": 142,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "replit",
+      "description": "replit 插件",
+      "trigger_keywords": "replit",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\replit"
+    },
+    {
+      "num": 143,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "responsive",
+      "description": "responsive 插件",
+      "trigger_keywords": "responsive",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\responsive"
+    },
+    {
+      "num": 144,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "build-ios-apps",
+      "description": "build-ios-apps 插件",
+      "trigger_keywords": "build-ios-apps",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\build-ios-apps"
+    },
+    {
+      "num": 145,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "build-macos-apps",
+      "description": "build-macos-apps 插件",
+      "trigger_keywords": "build-macos-apps",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\build-macos-apps"
+    },
+    {
+      "num": 146,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "build-web-apps",
+      "description": "build-web-apps 插件",
+      "trigger_keywords": "build-web-apps",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\build-web-apps"
+    },
+    {
+      "num": 147,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "build-web-data-visualization",
+      "description": "build-web-data-visualization 插件",
+      "trigger_keywords": "build-web-data-visualization",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\build-web-data-visualization"
+    },
+    {
+      "num": 148,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "test-android-apps",
+      "description": "test-android-apps 插件",
+      "trigger_keywords": "test-android-apps",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\test-android-apps"
+    },
+    {
+      "num": 149,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "network-solutions",
+      "description": "network-solutions 插件",
+      "trigger_keywords": "network-solutions",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\network-solutions"
+    },
+    {
+      "num": 150,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "wix",
+      "description": "wix 插件",
+      "trigger_keywords": "wix",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\wix"
+    },
+    {
+      "num": 151,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "github",
+      "description": "github 插件",
+      "trigger_keywords": "github",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\github"
+    },
+    {
+      "num": 152,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "circleci",
+      "description": "circleci 插件",
+      "trigger_keywords": "circleci",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\circleci"
+    },
+    {
+      "num": 153,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "coderabbit",
+      "description": "coderabbit 插件",
+      "trigger_keywords": "coderabbit",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\coderabbit"
+    },
+    {
+      "num": 154,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "twilio-developer-kit",
+      "description": "twilio-developer-kit 插件",
+      "trigger_keywords": "twilio-developer-kit",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\twilio-developer-kit"
+    },
+    {
+      "num": 155,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "openai-developers",
+      "description": "openai-developers 插件",
+      "trigger_keywords": "openai-developers",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\openai-developers"
+    },
+    {
+      "num": 156,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "boltz-api-cli",
+      "description": "boltz-api-cli 插件",
+      "trigger_keywords": "boltz-api-cli",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\boltz-api-cli"
+    },
+    {
+      "num": 157,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "temporal",
+      "description": "temporal 插件",
+      "trigger_keywords": "temporal",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\temporal"
+    },
+    {
+      "num": 158,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "heygen",
+      "description": "heygen 插件",
+      "trigger_keywords": "heygen",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\heygen"
+    },
+    {
+      "num": 159,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "midpage",
+      "description": "midpage 插件",
+      "trigger_keywords": "midpage",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\midpage"
+    },
+    {
+      "num": 160,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "otter-ai",
+      "description": "otter-ai 插件",
+      "trigger_keywords": "otter-ai",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\otter-ai"
+    },
+    {
+      "num": 161,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "fal",
+      "description": "fal 插件",
+      "trigger_keywords": "fal",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\fal"
+    },
+    {
+      "num": 162,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "nvidia",
+      "description": "nvidia 插件",
+      "trigger_keywords": "nvidia",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\nvidia"
+    },
+    {
+      "num": 163,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "hugging-face",
+      "description": "hugging-face 插件",
+      "trigger_keywords": "hugging-face",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\hugging-face"
+    },
+    {
+      "num": 164,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "windsor-ai",
+      "description": "windsor-ai 插件",
+      "trigger_keywords": "windsor-ai",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\windsor-ai"
+    },
+    {
+      "num": 165,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "hebbia",
+      "description": "hebbia 插件",
+      "trigger_keywords": "hebbia",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\hebbia"
+    },
+    {
+      "num": 166,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "read-ai",
+      "description": "read-ai 插件",
+      "trigger_keywords": "read-ai",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\read-ai"
+    },
+    {
+      "num": 167,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "tinman-ai",
+      "description": "tinman-ai 插件",
+      "trigger_keywords": "tinman-ai",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\tinman-ai"
+    },
+    {
+      "num": 168,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "game-studio",
+      "description": "game-studio 插件",
+      "trigger_keywords": "game-studio",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\game-studio"
+    },
+    {
+      "num": 169,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "aiera",
+      "description": "aiera 插件",
+      "trigger_keywords": "aiera",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\aiera"
+    },
+    {
+      "num": 170,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "picsart",
+      "description": "picsart 插件",
+      "trigger_keywords": "picsart",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\picsart"
+    },
+    {
+      "num": 171,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "shutterstock",
+      "description": "shutterstock 插件",
+      "trigger_keywords": "shutterstock",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\shutterstock"
+    },
+    {
+      "num": 172,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "biorender",
+      "description": "biorender 插件",
+      "trigger_keywords": "biorender",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\biorender"
+    },
+    {
+      "num": 173,
+      "type": "plugin_detail",
+      "category": "设计工具",
+      "name": "figma",
+      "description": "figma 插件",
+      "trigger_keywords": "figma",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\figma"
+    },
+    {
+      "num": 174,
+      "type": "plugin_detail",
+      "category": "设计工具",
+      "name": "canva",
+      "description": "canva 插件",
+      "trigger_keywords": "canva",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\canva"
+    },
+    {
+      "num": 175,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "hubspot",
+      "description": "hubspot 插件",
+      "trigger_keywords": "hubspot",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\hubspot"
+    },
+    {
+      "num": 176,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "pipedrive",
+      "description": "pipedrive 插件",
+      "trigger_keywords": "pipedrive",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\pipedrive"
+    },
+    {
+      "num": 177,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "monday-com",
+      "description": "monday-com 插件",
+      "trigger_keywords": "monday-com",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\monday-com"
+    },
+    {
+      "num": 178,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "clickup",
+      "description": "clickup 插件",
+      "trigger_keywords": "clickup",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\clickup"
+    },
+    {
+      "num": 179,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "asana",
+      "description": "asana 插件",
+      "trigger_keywords": "asana",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\asana"
+    },
+    {
+      "num": 180,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "linear",
+      "description": "linear 插件",
+      "trigger_keywords": "linear",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\linear"
+    },
+    {
+      "num": 181,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "attio",
+      "description": "attio 插件",
+      "trigger_keywords": "attio",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\attio"
+    },
+    {
+      "num": 182,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "close",
+      "description": "close 插件",
+      "trigger_keywords": "close",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\close"
+    },
+    {
+      "num": 183,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "outreach",
+      "description": "outreach 插件",
+      "trigger_keywords": "outreach",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\outreach"
+    },
+    {
+      "num": 184,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "superhuman",
+      "description": "superhuman 插件",
+      "trigger_keywords": "superhuman",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\superhuman"
+    },
+    {
+      "num": 185,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "streak",
+      "description": "streak 插件",
+      "trigger_keywords": "streak",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\streak"
+    },
+    {
+      "num": 186,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "teamwork-com",
+      "description": "teamwork-com 插件",
+      "trigger_keywords": "teamwork-com",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\teamwork-com"
+    },
+    {
+      "num": 187,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "zoho",
+      "description": "zoho 插件",
+      "trigger_keywords": "zoho",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\zoho"
+    },
+    {
+      "num": 188,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "highlevel",
+      "description": "highlevel 插件",
+      "trigger_keywords": "highlevel",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\highlevel"
+    },
+    {
+      "num": 189,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "help-scout",
+      "description": "help-scout 插件",
+      "trigger_keywords": "help-scout",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\help-scout"
+    },
+    {
+      "num": 190,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "intercom",
+      "description": "intercom 插件",
+      "trigger_keywords": "intercom",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\intercom"
+    },
+    {
+      "num": 191,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "clay",
+      "description": "clay 插件",
+      "trigger_keywords": "clay",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\clay"
+    },
+    {
+      "num": 192,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "catalyst-by-zoho",
+      "description": "catalyst-by-zoho 插件",
+      "trigger_keywords": "catalyst-by-zoho",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\catalyst-by-zoho"
+    },
+    {
+      "num": 193,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "carta-crm",
+      "description": "carta-crm 插件",
+      "trigger_keywords": "carta-crm",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\carta-crm"
+    },
+    {
+      "num": 194,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "brighthire",
+      "description": "brighthire 插件",
+      "trigger_keywords": "brighthire",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\brighthire"
+    },
+    {
+      "num": 195,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "demandbase",
+      "description": "demandbase 插件",
+      "trigger_keywords": "demandbase",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\demandbase"
+    },
+    {
+      "num": 196,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "marcopolo",
+      "description": "marcopolo 插件",
+      "trigger_keywords": "marcopolo",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\marcopolo"
+    },
+    {
+      "num": 197,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "common-room",
+      "description": "common-room 插件",
+      "trigger_keywords": "common-room",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\common-room"
+    },
+    {
+      "num": 198,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "conductor",
+      "description": "conductor 插件",
+      "trigger_keywords": "conductor",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\conductor"
+    },
+    {
+      "num": 199,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "airtable",
+      "description": "airtable 插件",
+      "trigger_keywords": "airtable",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\airtable"
+    },
+    {
+      "num": 200,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "datadog",
+      "description": "datadog 插件",
+      "trigger_keywords": "datadog",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\datadog"
+    },
+    {
+      "num": 201,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "mixpanel",
+      "description": "mixpanel 插件",
+      "trigger_keywords": "mixpanel",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\mixpanel"
+    },
+    {
+      "num": 202,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "posthog",
+      "description": "posthog 插件",
+      "trigger_keywords": "posthog",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\posthog"
+    },
+    {
+      "num": 203,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "cube",
+      "description": "cube 插件",
+      "trigger_keywords": "cube",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\cube"
+    },
+    {
+      "num": 204,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "daloopa",
+      "description": "daloopa 插件",
+      "trigger_keywords": "daloopa",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\daloopa"
+    },
+    {
+      "num": 205,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "motherduck",
+      "description": "motherduck 插件",
+      "trigger_keywords": "motherduck",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\motherduck"
+    },
+    {
+      "num": 206,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "deepnote",
+      "description": "deepnote 插件",
+      "trigger_keywords": "deepnote",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\deepnote"
+    },
+    {
+      "num": 207,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "hex",
+      "description": "hex 插件",
+      "trigger_keywords": "hex",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\hex"
+    },
+    {
+      "num": 208,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "similarweb",
+      "description": "similarweb 插件",
+      "trigger_keywords": "similarweb",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\similarweb"
+    },
+    {
+      "num": 209,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "semrush",
+      "description": "semrush 插件",
+      "trigger_keywords": "semrush",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\semrush"
+    },
+    {
+      "num": 210,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "cb-insights",
+      "description": "cb-insights 插件",
+      "trigger_keywords": "cb-insights",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\cb-insights"
+    },
+    {
+      "num": 211,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "pitchbook",
+      "description": "pitchbook 插件",
+      "trigger_keywords": "pitchbook",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\pitchbook"
+    },
+    {
+      "num": 212,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "factset",
+      "description": "factset 插件",
+      "trigger_keywords": "factset",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\factset"
+    },
+    {
+      "num": 213,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "morningstar",
+      "description": "morningstar 插件",
+      "trigger_keywords": "morningstar",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\morningstar"
+    },
+    {
+      "num": 214,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "moody-s",
+      "description": "moody-s 插件",
+      "trigger_keywords": "moody-s",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\moody-s"
+    },
+    {
+      "num": 215,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "lseg",
+      "description": "lseg 插件",
+      "trigger_keywords": "lseg",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\lseg"
+    },
+    {
+      "num": 216,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "dow-jones-factiva",
+      "description": "dow-jones-factiva 插件",
+      "trigger_keywords": "dow-jones-factiva",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\dow-jones-factiva"
+    },
+    {
+      "num": 217,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "mt-newswires",
+      "description": "mt-newswires 插件",
+      "trigger_keywords": "mt-newswires",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\mt-newswires"
+    },
+    {
+      "num": 218,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "third-bridge",
+      "description": "third-bridge 插件",
+      "trigger_keywords": "third-bridge",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\third-bridge"
+    },
+    {
+      "num": 219,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "thoughtspot",
+      "description": "thoughtspot 插件",
+      "trigger_keywords": "thoughtspot",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\thoughtspot"
+    },
+    {
+      "num": 220,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "omni-analytics",
+      "description": "omni-analytics 插件",
+      "trigger_keywords": "omni-analytics",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\omni-analytics"
+    },
+    {
+      "num": 221,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "granola",
+      "description": "granola 插件",
+      "trigger_keywords": "granola",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\granola"
+    },
+    {
+      "num": 222,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "taxdown",
+      "description": "taxdown 插件",
+      "trigger_keywords": "taxdown",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\taxdown"
+    },
+    {
+      "num": 223,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "ranked-ai",
+      "description": "ranked-ai 插件",
+      "trigger_keywords": "ranked-ai",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\ranked-ai"
+    },
+    {
+      "num": 224,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "meticulate",
+      "description": "meticulate 插件",
+      "trigger_keywords": "meticulate",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\meticulate"
+    },
+    {
+      "num": 225,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "readwise",
+      "description": "readwise 插件",
+      "trigger_keywords": "readwise",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\readwise"
+    },
+    {
+      "num": 226,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "zotero",
+      "description": "zotero 插件",
+      "trigger_keywords": "zotero",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\zotero"
+    },
+    {
+      "num": 227,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "amplitude",
+      "description": "amplitude 插件",
+      "trigger_keywords": "amplitude",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\amplitude"
+    },
+    {
+      "num": 228,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "apollo",
+      "description": "apollo 插件",
+      "trigger_keywords": "apollo",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\apollo"
+    },
+    {
+      "num": 229,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "scite",
+      "description": "scite 插件",
+      "trigger_keywords": "scite",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\scite"
+    },
+    {
+      "num": 230,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "glean",
+      "description": "glean 插件",
+      "trigger_keywords": "glean",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\glean"
+    },
+    {
+      "num": 231,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "alation",
+      "description": "alation 插件",
+      "trigger_keywords": "alation",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\alation"
+    },
+    {
+      "num": 232,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "keybid-puls",
+      "description": "keybid-puls 插件",
+      "trigger_keywords": "keybid-puls",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\keybid-puls"
+    },
+    {
+      "num": 233,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "dnb-finance-analytics",
+      "description": "dnb-finance-analytics 插件",
+      "trigger_keywords": "dnb-finance-analytics",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\dnb-finance-analytics"
+    },
+    {
+      "num": 234,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "hg-insights",
+      "description": "hg-insights 插件",
+      "trigger_keywords": "hg-insights",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\hg-insights"
+    },
+    {
+      "num": 235,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "particl-market-research",
+      "description": "particl-market-research 插件",
+      "trigger_keywords": "particl-market-research",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\particl-market-research"
+    },
+    {
+      "num": 236,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "life-science-research",
+      "description": "life-science-research 插件",
+      "trigger_keywords": "life-science-research",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\life-science-research"
+    },
+    {
+      "num": 237,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "ngs-analysis",
+      "description": "ngs-analysis 插件",
+      "trigger_keywords": "ngs-analysis",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\ngs-analysis"
+    },
+    {
+      "num": 238,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "box",
+      "description": "box 插件",
+      "trigger_keywords": "box",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\box"
+    },
+    {
+      "num": 239,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "egnyte",
+      "description": "egnyte 插件",
+      "trigger_keywords": "egnyte",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\egnyte"
+    },
+    {
+      "num": 240,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "sharepoint",
+      "description": "sharepoint 插件",
+      "trigger_keywords": "sharepoint",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\sharepoint"
+    },
+    {
+      "num": 241,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "docket",
+      "description": "docket 插件",
+      "trigger_keywords": "docket",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\docket"
+    },
+    {
+      "num": 242,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "docusign",
+      "description": "docusign 插件",
+      "trigger_keywords": "docusign",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\docusign"
+    },
+    {
+      "num": 243,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "signnow",
+      "description": "signnow 插件",
+      "trigger_keywords": "signnow",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\signnow"
+    },
+    {
+      "num": 244,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "govtribe",
+      "description": "govtribe 插件",
+      "trigger_keywords": "govtribe",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\govtribe"
+    },
+    {
+      "num": 245,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "myregistry-com",
+      "description": "myregistry-com 插件",
+      "trigger_keywords": "myregistry-com",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\myregistry-com"
+    },
+    {
+      "num": 246,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "plugin-eval",
+      "description": "plugin-eval 插件",
+      "trigger_keywords": "plugin-eval",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\plugin-eval"
+    },
+    {
+      "num": 247,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "stripe",
+      "description": "stripe 插件",
+      "trigger_keywords": "stripe",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\stripe"
+    },
+    {
+      "num": 248,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "razorpay",
+      "description": "razorpay 插件",
+      "trigger_keywords": "razorpay",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\razorpay"
+    },
+    {
+      "num": 249,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "quicknode",
+      "description": "quicknode 插件",
+      "trigger_keywords": "quicknode",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\quicknode"
+    },
+    {
+      "num": 250,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "binance",
+      "description": "binance 插件",
+      "trigger_keywords": "binance",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\binance"
+    },
+    {
+      "num": 251,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "fiscal-ai",
+      "description": "fiscal-ai 插件",
+      "trigger_keywords": "fiscal-ai",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\fiscal-ai"
+    },
+    {
+      "num": 252,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "setu-bharat-connect-billpay",
+      "description": "setu-bharat-connect-billpay 插件",
+      "trigger_keywords": "setu-bharat-connect-billpay",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\setu-bharat-connect-billpay"
+    },
+    {
+      "num": 253,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "quickbooks",
+      "description": "quickbooks 插件",
+      "trigger_keywords": "quickbooks",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\quickbooks"
+    },
+    {
+      "num": 254,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "coupler-io",
+      "description": "coupler-io 插件",
+      "trigger_keywords": "coupler-io",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\coupler-io"
+    },
+    {
+      "num": 255,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "coveo",
+      "description": "coveo 插件",
+      "trigger_keywords": "coveo",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\coveo"
+    },
+    {
+      "num": 256,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "google-calendar",
+      "description": "google-calendar 插件",
+      "trigger_keywords": "google-calendar",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\google-calendar"
+    },
+    {
+      "num": 257,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "outlook-calendar",
+      "description": "outlook-calendar 插件",
+      "trigger_keywords": "outlook-calendar",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\outlook-calendar"
+    },
+    {
+      "num": 258,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "slack",
+      "description": "slack 插件",
+      "trigger_keywords": "slack",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\slack"
+    },
+    {
+      "num": 259,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "zoominfo",
+      "description": "zoominfo 插件",
+      "trigger_keywords": "zoominfo",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\zoominfo"
+    },
+    {
+      "num": 260,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "sendgrid",
+      "description": "sendgrid 插件",
+      "trigger_keywords": "sendgrid",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\sendgrid"
+    },
+    {
+      "num": 261,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "calendly",
+      "description": "calendly 插件",
+      "trigger_keywords": "calendly",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\calendly"
+    },
+    {
+      "num": 262,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "outreach",
+      "description": "outreach 插件",
+      "trigger_keywords": "outreach",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\outreach"
+    },
+    {
+      "num": 263,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "waldo",
+      "description": "waldo 插件",
+      "trigger_keywords": "waldo",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\waldo"
+    },
+    {
+      "num": 264,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "weatherpromise",
+      "description": "weatherpromise 插件",
+      "trigger_keywords": "weatherpromise",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\weatherpromise"
+    },
+    {
+      "num": 265,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "domotz-preview",
+      "description": "domotz-preview 插件",
+      "trigger_keywords": "domotz-preview",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\domotz-preview"
+    },
+    {
+      "num": 266,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "skywatch",
+      "description": "skywatch 插件",
+      "trigger_keywords": "skywatch",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\skywatch"
+    },
+    {
+      "num": 267,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "rox",
+      "description": "rox 插件",
+      "trigger_keywords": "rox",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\rox"
+    },
+    {
+      "num": 268,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "replayio",
+      "description": "replayio 插件",
+      "trigger_keywords": "replayio",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\replayio"
+    },
+    {
+      "num": 269,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "sentry替代",
+      "description": "sentry替代 插件",
+      "trigger_keywords": "sentry替代",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\sentry替代"
+    },
+    {
+      "num": 270,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "glean",
+      "description": "glean 插件",
+      "trigger_keywords": "glean",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\glean"
+    },
+    {
+      "num": 271,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "scite",
+      "description": "scite 插件",
+      "trigger_keywords": "scite",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\scite"
+    },
+    {
+      "num": 272,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "zotero",
+      "description": "zotero 插件",
+      "trigger_keywords": "zotero",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\zotero"
+    },
+    {
+      "num": 273,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "readwise",
+      "description": "readwise 插件",
+      "trigger_keywords": "readwise",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\readwise"
+    },
+    {
+      "num": 274,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "lotview替代",
+      "description": "lotview替代 插件",
+      "trigger_keywords": "lotview替代",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\lotview替代"
+    },
+    {
+      "num": 275,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "quartr",
+      "description": "quartr 插件",
+      "trigger_keywords": "quartr",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\quartr"
+    },
+    {
+      "num": 276,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "policynote",
+      "description": "policynote 插件",
+      "trigger_keywords": "policynote",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\policynote"
+    },
+    {
+      "num": 277,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "finn",
+      "description": "finn 插件",
+      "trigger_keywords": "finn",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\finn"
+    },
+    {
+      "num": 278,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "jams替代",
+      "description": "jams替代 插件",
+      "trigger_keywords": "jams替代",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\jams替代"
+    },
+    {
+      "num": 279,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "jam",
+      "description": "jam 插件",
+      "trigger_keywords": "jam",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\jam"
+    },
+    {
+      "num": 280,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "happenstance",
+      "description": "happenstance 插件",
+      "trigger_keywords": "happenstance",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\happenstance"
+    },
+    {
+      "num": 281,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "cogedim",
+      "description": "cogedim 插件",
+      "trigger_keywords": "cogedim",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\cogedim"
+    },
+    {
+      "num": 282,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "brand24",
+      "description": "brand24 插件",
+      "trigger_keywords": "brand24",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\brand24"
+    },
+    {
+      "num": 283,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "chronograph-gp",
+      "description": "chronograph-gp 插件",
+      "trigger_keywords": "chronograph-gp",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\chronograph-gp"
+    },
+    {
+      "num": 284,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "chronograph-lp",
+      "description": "chronograph-lp 插件",
+      "trigger_keywords": "chronograph-lp",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\chronograph-lp"
+    },
+    {
+      "num": 285,
+      "type": "plugin_detail",
+      "category": "其他/杂项",
+      "name": "actively",
+      "description": "actively 插件",
+      "trigger_keywords": "actively",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\actively"
+    },
+    {
+      "num": 286,
+      "type": "plugin_detail",
+      "category": "其他/杂项",
+      "name": "cache",
+      "description": "cache 插件",
+      "trigger_keywords": "cache",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\cache"
+    },
+    {
+      "num": 287,
+      "type": "plugin_detail",
+      "category": "其他/杂项",
+      "name": "base44",
+      "description": "base44 插件",
+      "trigger_keywords": "base44",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\base44"
+    },
+    {
+      "num": 288,
+      "type": "plugin_detail",
+      "category": "其他/杂项",
+      "name": "convex",
+      "description": "convex 插件",
+      "trigger_keywords": "convex",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\convex"
+    },
+    {
+      "num": 289,
+      "type": "plugin_detail",
+      "category": "其他/杂项",
+      "name": "dev替代",
+      "description": "dev替代 插件",
+      "trigger_keywords": "dev替代",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\dev替代"
+    },
+    {
+      "num": 290,
+      "type": "mcp_detail",
+      "category": "MCP Server",
+      "name": "codex-security",
+      "description": "Codex 安全扫描框架：finding-discovery, validation, attack-path-analysis, threat-model, fix-finding, track-findings, security-diff-scan, deep-security-scan, triage-finding",
+      "trigger_keywords": "安全 扫描 漏洞 威胁建模",
+      "path": "MCP Server: codex-security"
+    },
+    {
+      "num": 291,
+      "type": "closing",
+      "title": "感谢使用",
+      "subtitle": "Codex 技能全景索引",
+      "meta": "共 291 页 | 107 Skills + 120+ Plugins + 1 MCP"
+    },
+    {
+      "num": 19,
+      "type": "skill_detail",
+      "category": "数据/搜索",
+      "name": "a-stock-data",
+      "description": "A股全栈数据工具包 — 覆盖行情(mootdx+腾讯+百度K线)、研报(东财+同花顺+iwencai)、信号(同花顺热点+北向+龙虎榜+解禁+行业)、资金面(融资融券+大宗交易+股东户数+分红+资金流分钟级+资金流120日)、新闻(东财个股+全球资讯)、基础数据(mootdx财务/F10+东财+新浪三表)、公告(巨潮)七层数据源，内嵌全部调用代码，自包含零依赖外部文件。优先用通达信(mootdx)",
+      "trigger_keywords": "a stock data",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\a-stock-data"
+    },
+    {
+      "num": 20,
+      "type": "skill_detail",
+      "category": "数据/搜索",
+      "name": "agent-reach",
+      "description": ">",
+      "trigger_keywords": "agent reach",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\agent-reach"
+    },
+    {
+      "num": 21,
+      "type": "skill_detail",
+      "category": "数据/搜索",
+      "name": "ai-image-prompts-skill",
+      "description": "--- name: ai-image-prompts-skill description: |   Recommend curated prompts from a 10,000+ real-world image generation prompt library.   Works with ANY AI image model — Nano Banana Pro, Nano Banana 2,",
+      "trigger_keywords": "ai image prompts skill",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\ai-image-prompts-skill"
+    },
+    {
+      "num": 22,
+      "type": "skill_detail",
+      "category": "数据/搜索",
+      "name": "anysearch",
+      "description": "Real-time search engine supporting web search, vertical domain search, parallel batch search, and URL content extraction.",
+      "trigger_keywords": "anysearch",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\anysearch"
+    },
+    {
+      "num": 23,
+      "type": "skill_detail",
+      "category": "数据/搜索",
+      "name": "knowledge-agent",
+      "description": "Build and query AI-powered knowledge bases from claude-mem observations. Use when users want to create focused \"brains\" from their observation history, ask questions about past work patterns, or compi",
+      "trigger_keywords": "knowledge agent",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\knowledge-agent"
+    },
+    {
+      "num": 24,
+      "type": "skill_detail",
+      "category": "数据/搜索",
+      "name": "mem-search",
+      "description": "Search claude-mem's persistent cross-session memory database. Use when user asks \"did we already solve this?\", \"how did we do X last time?\", or needs work from previous sessions.",
+      "trigger_keywords": "mem search",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\mem-search"
+    },
+    {
+      "num": 25,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "design-taste-frontend",
+      "description": "Anti-slop frontend skill for landing pages, portfolios, and redesigns. The agent reads the brief, infers the right design direction, and ships interfaces that do not look templated. Real design system",
+      "trigger_keywords": "design taste frontend",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\design-taste-frontend"
+    },
+    {
+      "num": 26,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "frontend-design",
+      "description": "﻿This skill guides creation of distinctive, production-grade frontend interfaces that avoid generic \"AI slop\" aesthetics. Implement real working code with exceptional attention to aesthetic details an",
+      "trigger_keywords": "frontend design",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\frontend-design"
+    },
+    {
+      "num": 27,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "gpt-taste",
+      "description": "Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomization for layout variance, strict AIDA page structure, wide editorial typography (bans 6-line wraps), gapless bento gri",
+      "trigger_keywords": "gpt taste",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\gpt-taste"
+    },
+    {
+      "num": 28,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "high-end-visual-design",
+      "description": "Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animations that make a website feel expensive. Blocks all the common defaults that make",
+      "trigger_keywords": "high end visual design",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\high-end-visual-design"
+    },
+    {
+      "num": 29,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "impeccable",
+      "description": "Use when the user wants to design, redesign, shape, critique, audit, polish, clarify, distill, harden, optimize, adapt, animate, colorize, extract, or otherwise improve a frontend interface. Covers we",
+      "trigger_keywords": "impeccable",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\impeccable"
+    },
+    {
+      "num": 30,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "minimalist-ui",
+      "description": "Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels. No gradients, no heavy shadows.",
+      "trigger_keywords": "minimalist ui",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\minimalist-ui"
+    },
+    {
+      "num": 31,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "industrial-brutalist-ui",
+      "description": "Raw mechanical interfaces fusing Swiss typographic print with military terminal aesthetics. Rigid grids, extreme type scale contrast, utilitarian color, analog degradation effects. For data-heavy dash",
+      "trigger_keywords": "industrial brutalist ui",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\industrial-brutalist-ui"
+    },
+    {
+      "num": 32,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "stitch-design-taste",
+      "description": "Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.md files that enforce premium, anti-generic UI standards — strict typography, calibrated color, asymmetric layouts, perp",
+      "trigger_keywords": "stitch design taste",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\stitch-design-taste"
+    },
+    {
+      "num": 33,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "taste-skill",
+      "description": "无SKILL.md",
+      "trigger_keywords": "taste skill",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\taste-skill"
+    },
+    {
+      "num": 34,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "ui-ux-pro-max",
+      "description": "# {{TITLE}}  {{DESCRIPTION}} {{QUICK_REFERENCE}} # Prerequisites  Check if Python is installed:  ```bash python3 --version || python --version ```  If Python is not installed, install it based on user",
+      "trigger_keywords": "ui ux pro max",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\ui-ux-pro-max"
+    },
+    {
+      "num": 35,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "image-to-code",
+      "description": "Elite website image-to-code skill for Codex. For visually important web tasks, it must first generate the design image(s) itself, deeply analyze them, then implement the website to match them as close",
+      "trigger_keywords": "image to code",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\image-to-code"
+    },
+    {
+      "num": 36,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "redesign-existing-projects",
+      "description": "Upgrades existing websites and apps to premium quality. Audits current design, identifies generic AI patterns, and applies high-end design standards without breaking functionality. Works with any CSS ",
+      "trigger_keywords": "redesign existing projects",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\redesign-existing-projects"
+    },
+    {
+      "num": 37,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "imagegen-frontend-web",
+      "description": "Elite frontend image-direction skill for generating premium, conversion-aware website design references. CRITICAL OUTPUT RULE — generate ONE separate horizontal image FOR EVERY section. A landing page",
+      "trigger_keywords": "imagegen frontend web",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\imagegen-frontend-web"
+    },
+    {
+      "num": 38,
+      "type": "skill_detail",
+      "category": "前端/设计",
+      "name": "imagegen-frontend-mobile",
+      "description": "Elite mobile app image-generation skill for creating premium, app-native screen concepts and flows. Designed for iOS, Android, and cross-platform mobile products. Prioritizes clean hierarchy, comforta",
+      "trigger_keywords": "imagegen frontend mobile",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\imagegen-frontend-mobile"
+    },
+    {
+      "num": 39,
+      "type": "skill_detail",
+      "category": "图片/视觉",
+      "name": "imagegen-free",
+      "description": "Free AI image generation using Pollinations.ai — no API key required. Use when the built-in image_gen tool is unavailable, OPENAI_API_KEY is not set, or the user asks to generate images without an API",
+      "trigger_keywords": "imagegen free",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\imagegen-free"
+    },
+    {
+      "num": 40,
+      "type": "skill_detail",
+      "category": "图片/视觉",
+      "name": "brandkit",
+      "description": "Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world presentations. Trained for minimalist, cinematic, editorial, dark",
+      "trigger_keywords": "brandkit",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\brandkit"
+    },
+    {
+      "num": 41,
+      "type": "skill_detail",
+      "category": "图片/视觉",
+      "name": "hatch-pet",
+      "description": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character art, generated images, company or prospect brand cues, or visual references. Use w",
+      "trigger_keywords": "hatch pet",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\hatch-pet"
+    },
+    {
+      "num": 42,
+      "type": "skill_detail",
+      "category": "图片/视觉",
+      "name": "screenshot",
+      "description": "Use when the user explicitly asks for a desktop or system screenshot (full screen, specific app or window, or a pixel region), or when tool-specific capture capabilities are unavailable and an OS-leve",
+      "trigger_keywords": "screenshot",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\screenshot"
+    },
+    {
+      "num": 43,
+      "type": "skill_detail",
+      "category": "文档/办公",
+      "name": "doc-excel-toolkit",
+      "description": "Analyze local documents (PDF, DOCX, TXT) and process Excel spreadsheets (XLSX, XLS, CSV). Supports reading, extracting, summarizing, and creating/modifying files.",
+      "trigger_keywords": "doc excel toolkit",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\doc-excel-toolkit"
+    },
+    {
+      "num": 44,
+      "type": "skill_detail",
+      "category": "文档/办公",
+      "name": "pdf",
+      "description": "Use when tasks involve reading, creating, or reviewing PDF files where rendering and layout matter; prefer visual checks by rendering pages (Poppler) and use Python tools such as `reportlab`, `pdfplum",
+      "trigger_keywords": "pdf",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\pdf"
+    },
+    {
+      "num": 45,
+      "type": "skill_detail",
+      "category": "文档/办公",
+      "name": "speech",
+      "description": "Use when the user asks for text-to-speech narration or voiceover, accessibility reads, audio prompts, or batch speech generation via the OpenAI Audio API; run the bundled CLI (`scripts/text_to_speech.",
+      "trigger_keywords": "speech",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\speech"
+    },
+    {
+      "num": 46,
+      "type": "skill_detail",
+      "category": "文档/办公",
+      "name": "transcribe",
+      "description": "Transcribe audio files to text with optional diarization and known-speaker hints. Use when a user asks to transcribe speech from audio/video, extract text from recordings, or label speakers in intervi",
+      "trigger_keywords": "transcribe",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\transcribe"
+    },
+    {
+      "num": 47,
+      "type": "skill_detail",
+      "category": "文档/办公",
+      "name": "jupyter-notebook",
+      "description": "Use when the user asks to create, scaffold, or edit Jupyter notebooks (`.ipynb`) for experiments, explorations, or tutorials; prefer the bundled templates and run the helper script `new_notebook.py` t",
+      "trigger_keywords": "jupyter notebook",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\jupyter-notebook"
+    },
+    {
+      "num": 48,
+      "type": "skill_detail",
+      "category": "PPT",
+      "name": "GordenImage2PPTX",
+      "description": ">-",
+      "trigger_keywords": "GordenImage2PPTX",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\GordenImage2PPTX"
+    },
+    {
+      "num": 49,
+      "type": "skill_detail",
+      "category": "PPT",
+      "name": "GordenImagePPTGen",
+      "description": ">-",
+      "trigger_keywords": "GordenImagePPTGen",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\GordenImagePPTGen"
+    },
+    {
+      "num": 50,
+      "type": "skill_detail",
+      "category": "PPT",
+      "name": "GordenSuperPPTSkill",
+      "description": ">-",
+      "trigger_keywords": "GordenSuperPPTSkill",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\GordenSuperPPTSkill"
+    },
+    {
+      "num": 51,
+      "type": "skill_detail",
+      "category": "PPT",
+      "name": "guizang-ppt-skill",
+      "description": "生成横向翻页网页 PPT（单 HTML 文件），含 WebGL 背景、章节幕封、数据大字报、图片网格等模板。提供两种风格：① \"电子杂志 × 电子墨水\"（衬线 + 流体背景 + 暖色） ② \"瑞士国际主义\"（无衬线 + 网格点阵 + IKB/柠檬黄/柠檬绿/安全橙高亮）。当用户需要制作分享 / 演讲 / 发布会风格的网页 PPT，或提到\"杂志风 PPT\"、\"瑞士风 PPT\"、\"Swiss Styl",
+      "trigger_keywords": "guizang ppt skill",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\guizang-ppt-skill"
+    },
+    {
+      "num": 52,
+      "type": "skill_detail",
+      "category": "写作",
+      "name": "khazix-writer",
+      "description": "无SKILL.md",
+      "trigger_keywords": "khazix writer",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\khazix-writer"
+    },
+    {
+      "num": 53,
+      "type": "skill_detail",
+      "category": "写作",
+      "name": "humanizer-zh",
+      "description": "--- name: humanizer-zh description: |   去除文本中的 AI 生成痕迹。适用于编辑或审阅文本，使其听起来更自然、更像人类书写。   基于维基百科的\"AI 写作特征\"综合指南。检测并修复以下模式：夸大的象征意义、   宣传性语言、以 -ing 结尾的肤浅分析、模糊的归因、破折号过度使用、三段式法则、   AI 词汇、否定式排比、过多的连接性短语。 allowed",
+      "trigger_keywords": "humanizer zh",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\humanizer-zh"
+    },
+    {
+      "num": 54,
+      "type": "skill_detail",
+      "category": "写作",
+      "name": "stop-slop",
+      "description": "Remove AI writing patterns from prose. Use when drafting, editing, or reviewing text to eliminate predictable AI tells.",
+      "trigger_keywords": "stop slop",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\stop-slop"
+    },
+    {
+      "num": 55,
+      "type": "skill_detail",
+      "category": "部署",
+      "name": "vercel-deploy",
+      "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\".",
+      "trigger_keywords": "vercel deploy",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\vercel-deploy"
+    },
+    {
+      "num": 56,
+      "type": "skill_detail",
+      "category": "部署",
+      "name": "netlify-deploy",
+      "description": "Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, or link a site/repo on Netlify, including preview and production deploys.",
+      "trigger_keywords": "netlify deploy",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\netlify-deploy"
+    },
+    {
+      "num": 57,
+      "type": "skill_detail",
+      "category": "部署",
+      "name": "cloudflare-deploy",
+      "description": "Deploy applications and infrastructure to Cloudflare using Workers, Pages, and related platform services. Use when the user asks to deploy, host, publish, or set up a project on Cloudflare.",
+      "trigger_keywords": "cloudflare deploy",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\cloudflare-deploy"
+    },
+    {
+      "num": 58,
+      "type": "skill_detail",
+      "category": "部署",
+      "name": "render-deploy",
+      "description": "Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints, and providing Dashboard deeplinks. Use when the user wants to deploy, host, publish, or set up their applicatio",
+      "trigger_keywords": "render deploy",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\render-deploy"
+    },
+    {
+      "num": 59,
+      "type": "skill_detail",
+      "category": "部署",
+      "name": "yeet",
+      "description": "Use only when the user explicitly asks to stage, commit, push, and open a GitHub pull request in one flow using the GitHub CLI (`gh`).",
+      "trigger_keywords": "yeet",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\yeet"
+    },
+    {
+      "num": 60,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-approval",
+      "description": "飞书审批：查询和处理审批待办/已办/实例，搜索可发起审批定义、查看定义详情并发起原生审批实例。当用户要处理审批任务、查看审批实例、搜索或发起审批时使用。审批待办不是飞书任务；非审批类待办走 lark-task。不负责创建审批定义；三方审批定义不走原生提单。",
+      "trigger_keywords": "lark approval",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-approval"
+    },
+    {
+      "num": 61,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-apps",
+      "description": "妙搭（Spark/Miaoda）应用开发与托管：应用创建、HTML静态站点发布、本地全栈开发、云端生成迭代、AI相关能力和飞书平台能力或者其他外部能力集成、日志/Trace/监控指标/PV/UV 查询、环境变量管理。当用户要开发/新建一个系统·工具·平台·应用，或要本地开发 / 云端开发 / 修改 / 部署 / 发布 / 上线 / 拿可分享链接，或用 HTML 做页面·网站·部署到妙搭，或提到妙搭",
+      "trigger_keywords": "lark apps",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-apps"
+    },
+    {
+      "num": 62,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-attendance",
+      "description": "飞书考勤打卡：查询自己的考勤打卡记录",
+      "trigger_keywords": "lark attendance",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-attendance"
+    },
+    {
+      "num": 63,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-base",
+      "description": "飞书多维表格（Base）操作：建表、字段、记录、视图、统计、公式/lookup、表单、仪表盘、workflow、角色权限；遇到 Base/多维表格/bitable 或 /base/ 链接时使用。文件导入转 lark-drive，认证/授权转 lark-shared。",
+      "trigger_keywords": "lark base",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-base"
+    },
+    {
+      "num": 64,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-calendar",
+      "description": "飞书日历：管理日历日程和会议室。查看/搜索日程、创建/更新日程、管理参会人、查询忙闲和推荐时段、预定会议室。当用户需要查看日程安排、创建/修改会议、查询/预定会议室时使用。不负责：查询过去的视频会议记录（走 lark-vc）、待办任务（走 lark-task）。",
+      "trigger_keywords": "lark calendar",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-calendar"
+    },
+    {
+      "num": 65,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-contact",
+      "description": "飞书 / Lark 通讯录:按姓名 / 邮箱解析成 open_id,或按 open_id 反查姓名 / 部门 / 邮箱 / 联系方式 / 个人状态 / 签名。当用户提到某人姓名要下一步发消息 / 排日程,或拿到 open_id 想查具体信息时使用。不负责部门树遍历、按部门列员工、组织架构图,这类需求走原生 OpenAPI。",
+      "trigger_keywords": "lark contact",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-contact"
+    },
+    {
+      "num": 66,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-doc",
+      "description": "飞书云文档（Docx / Wiki 文档）：读取和编辑飞书文档内容。当用户给出文档 URL 或 token，或需要查看、创建、编辑文档、插入或下载文档图片附件时使用。文档中嵌入的电子表格、多维表格、画板，先用本 skill 提取 token 再切到对应 skill。当用户给出 doubao.com 的 /docx/ 或 /wiki/ URL/token 时，也应直接使用本 skill；路由依据是 ",
+      "trigger_keywords": "lark doc",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-doc"
+    },
+    {
+      "num": 67,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-drive",
+      "description": "飞书云空间（云盘/云存储）：管理 Drive 文件和文件夹，包含上传/下载、创建文件夹、复制/移动/删除、查看元数据、评论/权限/订阅、标题、版本和本地文件导入。用户需要整理云盘目录、处理云空间资源 URL/token，或导入 Word/Markdown/Excel/CSV/PPTX/.base 为 docx/sheet/bitable/slides 时使用；doubao.com 云空间 URL/",
+      "trigger_keywords": "lark drive",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-drive"
+    },
+    {
+      "num": 68,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-event",
+      "description": "Lark/Feishu real-time event listening / subscribing / consuming: stream events as NDJSON via `lark-cli event consume <EventKey>` (covers IM messages/reactions/chat changes, Task updates, VC meeting st",
+      "trigger_keywords": "lark event",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-event"
+    },
+    {
+      "num": 69,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-im",
+      "description": "飞书即时通讯：收发消息和管理群聊。发送和回复消息、搜索聊天记录、管理群聊成员、上传下载图片和文件（支持大文件分片下载）、管理表情回复、发送应用内/短信/电话加急、发送和处理交互卡片（Interactive Card）、监听卡片按钮回调（card.action.trigger）。当用户需要发消息、查看或搜索聊天记录、下载聊天中的文件、查看群成员、搜索群、创建群聊或话题群、管理标记数据、管理 Feed",
+      "trigger_keywords": "lark im",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-im"
+    },
+    {
+      "num": 70,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-mail",
+      "description": "飞书邮箱：Use when user mentions 起草邮件、写邮件、草稿、发送/回复/转发邮件、查阅邮件、看邮件、搜索邮件、邮件文件夹、邮件标签、邮件联系人、监听新邮件、邮件收信规则等；use for mail/email intent only. Do not use for docs/sheets/calendar/auth setup/pure contact lookup/IM ch",
+      "trigger_keywords": "lark mail",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-mail"
+    },
+    {
+      "num": 71,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-markdown",
+      "description": "飞书 Markdown：查看、创建、上传、编辑和比较 Markdown 文件。当用户需要创建或编辑 Markdown 文件、读取、修改、局部 patch 或比较差异时使用。不负责将 Markdown 导入为飞书在线文档，也不负责文件搜索、权限、评论、移动、删除等云空间管理操作。",
+      "trigger_keywords": "lark markdown",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-markdown"
+    },
+    {
+      "num": 72,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-minutes",
+      "description": "飞书妙记：搜索妙记、查看妙记基础信息、下载/上传音视频、读取或编辑妙记的产物内容、改标题、替换说话人/关键词。当给出minute_token、本地音视频文件，要查/改/转妙记产物时使用；本地音视频转纪要/逐字稿优先走本 skill，不要用 ffmpeg/whisper 本地转写。不负责：获取会议关联妙记，或仅按自然语言标题定位纪要",
+      "trigger_keywords": "lark minutes",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-minutes"
+    },
+    {
+      "num": 73,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-note",
+      "description": "飞书会议纪要（Note）直查：已知 note_id 时查询纪要详情、展示类型、关联文档 token，并读取 unified 原始逐字记录。当用户已持有 note_id，或从文档显式 vc-node-id 获得 note_id 时使用。不负责会议/日程/妙记定位、文档标题搜索或 Docx 正文读取。",
+      "trigger_keywords": "lark note",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-note"
+    },
+    {
+      "num": 74,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-okr",
+      "description": "飞书 OKR：管理目标与关键结果。查看和编辑 OKR 周期、目标、关键结果、对齐关系、量化指标和进展记录。当用户需要查看或创建 OKR、管理目标和关键结果、查看对齐关系时使用。不负责：待办任务管理（lark-task）、日程/会议安排（lark-calendar）、绩效评估",
+      "trigger_keywords": "lark okr",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-okr"
+    },
+    {
+      "num": 75,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-openapi-explorer",
+      "description": "飞书/Lark 原生 OpenAPI 探索：从官方文档库中挖掘未经 CLI 封装的原生 OpenAPI 接口。当用户的需求无法被现有 lark-* skill 或 lark-cli 已注册命令满足，需要查找并调用原生飞书 OpenAPI 时使用。",
+      "trigger_keywords": "lark openapi explorer",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-openapi-explorer"
+    },
+    {
+      "num": 76,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-shared",
+      "description": "Use for lark-cli setup/auth tasks: auth login/status/logout, user vs bot identity, business-domain permissions (--domain, including all/docs/drive), missing scopes, revoking authorization, or handling",
+      "trigger_keywords": "lark shared",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-shared"
+    },
+    {
+      "num": 77,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-sheets",
+      "description": "飞书电子表格：创建和操作电子表格。支持创建表格、管理工作表与行列结构（增删/合并/调整尺寸/隐藏/冻结）、读写单元格（值/公式/样式/批注/单元格图片）、查找替换、多操作原子批量更新，以及图表、透视表、条件格式、筛选器、迷你图、浮动图片等对象的创建与维护。当用户需要创建电子表格、管理工作表、批量读写或编辑数据、统计汇总与可视化、表格美化、公式计算（含 Excel 公式迁移）、金融/财务建模（DCF",
+      "trigger_keywords": "lark sheets",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-sheets"
+    },
+    {
+      "num": 78,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-skill-maker",
+      "description": "创建 lark-cli 的自定义 Skill。当用户需要把飞书 API 操作封装成可复用的 Skill（包装原子 API 或编排多步流程）时使用。",
+      "trigger_keywords": "lark skill maker",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-skill-maker"
+    },
+    {
+      "num": 79,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-slides",
+      "description": "飞书幻灯片：创建和编辑幻灯片。创建演示文稿、读取幻灯片内容、管理幻灯片页面（创建、删除、读取、局部替换）。当用户需要创建或编辑幻灯片、读取或修改单个页面时使用。当用户给出 doubao.com 的 /slides/ URL/token 时，也应直接使用本 skill，不要因为域名不是飞书而回退到 WebFetch；路由依据是 URL 路径模式和 token，而不是域名。不负责：云文档内容编辑（走 ",
+      "trigger_keywords": "lark slides",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-slides"
+    },
+    {
+      "num": 80,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-task",
+      "description": "飞书任务：管理任务、清单和任务智能体。创建待办任务、查看和更新任务状态、拆分子任务、组织任务清单、分配协作成员、上传任务附件、注册或注销任务智能体、更新任务智能体的主页数据、写入智能体任务记录。当用户需要创建待办事项、查看任务列表、跟踪任务进度、管理项目清单或给他人分配任务、为任务上传附件文件、注册注销任务智能体、更新智能体主页数据、写入任务记录时使用。",
+      "trigger_keywords": "lark task",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-task"
+    },
+    {
+      "num": 81,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-vc",
+      "description": "飞书视频会议：搜索历史会议记录、查询会议纪要（总结/待办/章节/逐字稿）、查询参会人快照。当用户查询已结束的会议、获取会议产物（纪要/妙记）、查看参会人时使用；查询未来日程走 lark-calendar。不负责：Agent 真实入会/离会、会中实时事件（走 lark-vc-agent）。",
+      "trigger_keywords": "lark vc",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-vc"
+    },
+    {
+      "num": 82,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-vc-agent",
+      "description": "飞书视频会议会中能力：用于让应用机器人真实加入或离开正在进行的会议，并读取当前身份可见的会中事件、发送会中文本消息或会中表情。适用于用户询问正在开的会议发生了什么、谁在发言、是否共享内容，或需要发现当前可读的进行中会议 ID。不负责已结束会议搜索、参会人快照、纪要、逐字稿或录制查询，这些使用 lark-vc 技能。",
+      "trigger_keywords": "lark vc agent",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-vc-agent"
+    },
+    {
+      "num": 83,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-whiteboard",
+      "description": ">",
+      "trigger_keywords": "lark whiteboard",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-whiteboard"
+    },
+    {
+      "num": 84,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-wiki",
+      "description": "飞书知识库：管理知识空间、空间成员和文档节点。创建和查询知识空间、查看和管理空间成员、管理节点层级结构、在知识库中组织文档和快捷方式。当用户需要在知识库中查找或创建文档、浏览知识空间结构、查看或管理空间成员、移动或复制节点时使用。当用户给出 doubao.com 的 /wiki/ URL/token 时，也应直接使用本 skill，不要因为域名不是飞书而回退到 WebFetch；路由依据是 URL",
+      "trigger_keywords": "lark wiki",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-wiki"
+    },
+    {
+      "num": 85,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-workflow-meeting-summary",
+      "description": "会议纪要整理工作流：汇总指定时间范围内的会议纪要并生成结构化报告。当用户需要整理会议纪要、生成会议周报、回顾一段时间内的会议内容时使用。",
+      "trigger_keywords": "lark workflow meeting summary",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-workflow-meeting-summary"
+    },
+    {
+      "num": 86,
+      "type": "skill_detail",
+      "category": "飞书/Lark",
+      "name": "lark-workflow-standup-report",
+      "description": "日程待办摘要：编排 calendar +agenda 和 task +get-my-tasks，生成指定日期的日程与未完成任务摘要。适用于了解今天/明天/本周的安排。",
+      "trigger_keywords": "lark workflow standup report",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\lark-workflow-standup-report"
+    },
+    {
+      "num": 87,
+      "type": "skill_detail",
+      "category": "Notion",
+      "name": "notion-knowledge-capture",
+      "description": "Capture conversations and decisions into structured Notion pages; use when turning chats/notes into wiki entries, how-tos, decisions, or FAQs with proper linking.",
+      "trigger_keywords": "notion knowledge capture",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\notion-knowledge-capture"
+    },
+    {
+      "num": 88,
+      "type": "skill_detail",
+      "category": "Notion",
+      "name": "notion-meeting-intelligence",
+      "description": "Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads, and tailoring materials to attendees.",
+      "trigger_keywords": "notion meeting intelligence",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\notion-meeting-intelligence"
+    },
+    {
+      "num": 89,
+      "type": "skill_detail",
+      "category": "Notion",
+      "name": "notion-research-documentation",
+      "description": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.",
+      "trigger_keywords": "notion research documentation",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\notion-research-documentation"
+    },
+    {
+      "num": 90,
+      "type": "skill_detail",
+      "category": "Notion",
+      "name": "notion-spec-to-implementation",
+      "description": "Turn Notion specs into implementation plans, tasks, and progress tracking; use when implementing PRDs/feature specs and creating Notion plans + tasks from them.",
+      "trigger_keywords": "notion spec to implementation",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\notion-spec-to-implementation"
+    },
+    {
+      "num": 91,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "aspnet-core",
+      "description": "Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET web development. Use when working on Blazor Web Apps, Razor Pages, MVC, Minimal APIs, contr",
+      "trigger_keywords": "aspnet core",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\aspnet-core"
+    },
+    {
+      "num": 92,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "cli-creator",
+      "description": "Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples, an SDK, a web app, an admin tool, or a local script. Use when the user wants Codex to create a command-line too",
+      "trigger_keywords": "cli creator",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\cli-creator"
+    },
+    {
+      "num": 93,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "dot-skill",
+      "description": "Unified meta-skill engine for distilling colleague, relationship, or celebrity characters into reusable Skills. | 统一的 meta-skill 引擎，把 colleague、relationship、celebrity 三类对象蒸馏成可复用 Skill。",
+      "trigger_keywords": "dot skill",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\dot-skill"
+    },
+    {
+      "num": 94,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma",
+      "description": "Use the Figma MCP server to fetch design context, screenshots, variables, and assets from Figma, and to translate Figma nodes into production code. Trigger when a task involves Figma URLs, node IDs, d",
+      "trigger_keywords": "figma",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma"
+    },
+    {
+      "num": 95,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma-code-connect-components",
+      "description": "Connects Figma design components to code components using Code Connect mapping tools. Use when user says \"code connect\", \"connect this component to code\", \"map this component\", \"link component to code",
+      "trigger_keywords": "figma code connect components",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma-code-connect-components"
+    },
+    {
+      "num": 96,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma-create-design-system-rules",
+      "description": "Generates custom design system rules for the user's codebase. Use when user says \"create design system rules\", \"generate rules for my project\", \"set up design rules\", \"customize design system guidelin",
+      "trigger_keywords": "figma create design system rules",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma-create-design-system-rules"
+    },
+    {
+      "num": 97,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma-create-new-file",
+      "description": "Create a new blank Figma file. Use when the user wants to create a new Figma design or FigJam file, or when you need a new file before calling use_figma. Handles plan resolution via whoami if needed. ",
+      "trigger_keywords": "figma create new file",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma-create-new-file"
+    },
+    {
+      "num": 98,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma-generate-design",
+      "description": "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout into Figma. Triggers: 'write to Figma', 'create in Figma from code', 'push page",
+      "trigger_keywords": "figma generate design",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma-generate-design"
+    },
+    {
+      "num": 99,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma-generate-library",
+      "description": "Build or update a professional-grade design system in Figma from a codebase. Use when the user wants to create variables/tokens, build component libraries, set up theming (light/dark modes), document ",
+      "trigger_keywords": "figma generate library",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma-generate-library"
+    },
+    {
+      "num": 100,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "figma-use",
+      "description": "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool call. NEVER call `use_figma` directly without loading this skill first. Skipping it causes common, hard-to-debug f",
+      "trigger_keywords": "figma use",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma-use"
+    },
+    {
+      "num": 101,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "full-output-enforcement",
+      "description": "Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and handles token-limit splits cleanly. Apply to any task requiring exhaustive, unabridged outp",
+      "trigger_keywords": "full output enforcement",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\full-output-enforcement"
+    },
+    {
+      "num": 102,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "json-repair",
+      "description": ">",
+      "trigger_keywords": "json repair",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\json-repair"
+    },
+    {
+      "num": 103,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "migrate-to-codex",
+      "description": "Migrate supported instruction files, skills, agents, and MCP config into Codex project and global files.",
+      "trigger_keywords": "migrate to codex",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\migrate-to-codex"
+    },
+    {
+      "num": 104,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "open-notebook",
+      "description": "Interact with Open Notebook (lfnovo/open-notebook) via REST API — search knowledge bases, manage sources/notes, chat with notebooks, generate podcasts, and configure models",
+      "trigger_keywords": "open notebook",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\open-notebook"
+    },
+    {
+      "num": 105,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "openai-docs",
+      "description": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, needs up-to-date official documentation with citations, help choosing the latest m",
+      "trigger_keywords": "openai docs",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\openai-docs"
+    },
+    {
+      "num": 106,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "playwright",
+      "description": "Use when the task requires automating a real browser from the terminal (navigation, form filling, snapshots, screenshots, data extraction, UI-flow debugging) via `playwright-cli` or the bundled wrappe",
+      "trigger_keywords": "playwright",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\playwright"
+    },
+    {
+      "num": 107,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "playwright-interactive",
+      "description": "Persistent browser and Electron interaction through `js_repl` for fast iterative UI debugging.",
+      "trigger_keywords": "playwright interactive",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\playwright-interactive"
+    },
+    {
+      "num": 108,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "winui-app",
+      "description": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Microsoft guidance, WinUI Gallery patterns, Windows App SDK samples, and CommunityTool",
+      "trigger_keywords": "winui app",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\winui-app"
+    },
+    {
+      "num": 109,
+      "type": "skill_detail",
+      "category": "开发工具",
+      "name": "using-coze-cli",
+      "description": "Coze CLI（coze 命令）统一入口与共享基础，使用任何 coze 能力前必读（登录授权、组织/空间、配置、错误码与权限排查）。四个子模块：coze code（创建/迭代网页·App·小程序·Agent·工作流等编程项目、发需求、预览、部署、环境变量/域名/数据库）、coze session（Claw 对话、PPT、播客、长任务产物）、coze generate（图片/语音 TTS/视频生成",
+      "trigger_keywords": "using coze cli",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\using-coze-cli"
+    },
+    {
+      "num": 110,
+      "type": "skill_detail",
+      "category": "Git/CI",
+      "name": "babysit",
+      "description": "Watch a pull request or review cycle until it is ready to merge. Use when asked to babysit, monitor, or keep checking PR comments, reviews, and CI until all actionable issues are resolved.",
+      "trigger_keywords": "babysit",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\babysit"
+    },
+    {
+      "num": 111,
+      "type": "skill_detail",
+      "category": "Git/CI",
+      "name": "gh-address-comments",
+      "description": "Help address review/issue comments on the open GitHub PR for the current branch using gh CLI; verify gh auth first and prompt the user to authenticate if not logged in.",
+      "trigger_keywords": "gh address comments",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\gh-address-comments"
+    },
+    {
+      "num": 112,
+      "type": "skill_detail",
+      "category": "Git/CI",
+      "name": "gh-fix-ci",
+      "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after exp",
+      "trigger_keywords": "gh fix ci",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\gh-fix-ci"
+    },
+    {
+      "num": 113,
+      "type": "skill_detail",
+      "category": "Git/CI",
+      "name": "linear",
+      "description": "Manage issues, projects & team workflows in Linear. Use when the user wants to read, create or updates tickets in Linear.",
+      "trigger_keywords": "linear",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\linear"
+    },
+    {
+      "num": 114,
+      "type": "skill_detail",
+      "category": "安全",
+      "name": "security-best-practices",
+      "description": "Perform language and framework specific security best-practice reviews and suggest improvements. Trigger only when the user explicitly requests security best practices guidance, a security review/repo",
+      "trigger_keywords": "security best practices",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\security-best-practices"
+    },
+    {
+      "num": 115,
+      "type": "skill_detail",
+      "category": "安全",
+      "name": "security-ownership-map",
+      "description": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Trigger on",
+      "trigger_keywords": "security ownership map",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\security-ownership-map"
+    },
+    {
+      "num": 116,
+      "type": "skill_detail",
+      "category": "安全",
+      "name": "security-threat-model",
+      "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the use",
+      "trigger_keywords": "security threat model",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\security-threat-model"
+    },
+    {
+      "num": 117,
+      "type": "skill_detail",
+      "category": "安全",
+      "name": "sentry",
+      "description": "Use when the user asks to inspect Sentry issues or events, summarize recent production errors, or pull basic Sentry health data via the Sentry CLI; perform read-only queries using the `sentry` command",
+      "trigger_keywords": "sentry",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\sentry"
+    },
+    {
+      "num": 118,
+      "type": "skill_detail",
+      "category": "限流/控制",
+      "name": "rate-limit-handler",
+      "description": "自动处理 429 Too Many Requests 错误，采用指数退避 + 随机抖动策略重试。适用于所有 AI API 调用场景（OpenAI、Claude、本地模型等）。当出现 \"exceeded retry limit, last status: 429\"、\"rate limit\"、\"Too Many Requests\"、\"限速\"、\"频率限制\" 等错误时自动触发。也适用于用户主动要求\"加个重",
+      "trigger_keywords": "rate limit handler",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\rate-limit-handler"
+    },
+    {
+      "num": 119,
+      "type": "skill_detail",
+      "category": "限流/控制",
+      "name": "request-rate-control",
+      "description": "# Request Rate Control — AI 请求频率控制 Skill  ## 触发条件 当用户涉及以下场景时自动加载： - 构建 AI 驱动的应用（聊天、搜索、问答、生成） - 对接大模型 API（OpenAI、Claude、本地模型等） - 提到\"控制请求次数\"、\"限流\"、\"防抖\"、\"缓存\"、\"成本控制\" - 构建网站/应用需要调用外部 AI 服务  ## 核心原则  AI 请求是*",
+      "trigger_keywords": "request rate control",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\request-rate-control"
+    },
+    {
+      "num": 120,
+      "type": "skill_detail",
+      "category": "地图/导航",
+      "name": "map-navigate",
+      "description": "Move toward a requested target location or perform a requested interaction if already there.",
+      "trigger_keywords": "map navigate",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\map-navigate"
+    },
+    {
+      "num": 121,
+      "type": "skill_detail",
+      "category": "目标定义",
+      "name": "define-goal",
+      "description": "Help the user define a concrete, measurable goal before starting work, especially when they ask to use the goal tool, create a goal, set an objective, clarify success criteria, or turn a fuzzy intenti",
+      "trigger_keywords": "define goal",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\define-goal"
+    },
+    {
+      "num": 122,
+      "type": "skill_detail",
+      "category": "视频",
+      "name": "视频下载",
+      "description": "Download videos from web pages, Douyin, Bilibili, YouTube, and 1000+ other sites. Use when the user provides a video URL and wants to download it, or when scraping videos from a webpage. Supports plat",
+      "trigger_keywords": "视频下载",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\视频下载"
+    },
+    {
+      "num": 123,
+      "type": "skill_detail",
+      "category": "开发流程",
+      "name": "superpowers",
+      "description": "15 个子技能组成的开发流程套件：brainstorming, writing-plans, test-driven-development, subagent-driven-development, dispatching-parallel-agents, using-git-worktrees, systematic-debugging, verification-before-completion, requesting-code-review, receiving-code-review, finishing-a-development-branch, executing-plans, writing-skills",
+      "trigger_keywords": "superpowers 开发流程 技能集",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\superpowers"
+    },
+    {
+      "num": 124,
+      "type": "skill_detail",
+      "category": "设计系统",
+      "name": "taste-skill",
+      "description": "品味技能集合集：brandkit, design-taste-frontend, gpt-taste, high-end-visual-design, image-to-code, imagegen-frontend-mobile, imagegen-frontend-web, industrial-brutalist-ui, minimalist-ui, redesign-existing-projects, stitch-design-taste",
+      "trigger_keywords": "taste-skill 品味 设计",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\taste-skill"
+    },
+    {
+      "num": 125,
+      "type": "skill_detail",
+      "category": "设计工具",
+      "name": "figma 全家桶",
+      "description": "figma + figma-use + figma-generate-design + figma-generate-library + figma-code-connect-components + figma-create-design-system-rules + figma-create-new-file + figma-generate-library — 完整的 Figma 设计到代码工作流",
+      "trigger_keywords": "figma 设计组件 变量",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\figma"
+    },
+    {
+      "num": 126,
+      "type": "skill_detail",
+      "category": "飞书集成",
+      "name": "lark 审批流",
+      "description": "lark-approval + lark-workflow-meeting-summary + lark-workflow-standup-report — 飞书审批和工作流自动化",
+      "trigger_keywords": "飞书审批 工作流",
+      "path": "C:\\Users\\Administrator\\.agents\\skills\\lark-approval"
+    },
+    {
+      "num": 127,
+      "type": "skill_detail",
+      "category": "飞书集成",
+      "name": "lark 文档流",
+      "description": "lark-doc + lark-drive + lark-markdown + lark-slides + lark-sheets + lark-base + lark-whiteboard + lark-wiki — 飞书文档和数据处理",
+      "trigger_keywords": "飞书文档 表格 幻灯片",
+      "path": "C:\\Users\\Administrator\\.agents\\skills\\lark-doc"
+    },
+    {
+      "num": 128,
+      "type": "skill_detail",
+      "category": "飞书集成",
+      "name": "lark 通讯流",
+      "description": "lark-im + lark-mail + lark-calendar + lark-task + lark-attendance + lark-contact + lark-event + lark-vc + lark-vc-agent + lark-minutes + lark-note — 飞书通讯和协作",
+      "trigger_keywords": "飞书消息 邮件 日历 任务",
+      "path": "C:\\Users\\Administrator\\.agents\\skills\\lark-im"
+    },
+    {
+      "num": 129,
+      "type": "skill_detail",
+      "category": "Notion集成",
+      "name": "notion 全家桶",
+      "description": "notion-knowledge-capture + notion-meeting-intelligence + notion-research-documentation + notion-spec-to-implementation — Notion 知识管理和文档工作流",
+      "trigger_keywords": "notion 知识 会议 研究",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\notion-knowledge-capture"
+    },
+    {
+      "num": 130,
+      "type": "skill_detail",
+      "category": "安全工具",
+      "name": "security 全家桶",
+      "description": "security-best-practices + security-ownership-map + security-threat-model + codex-security — 安全扫描、威胁建模、漏洞修复全流程",
+      "trigger_keywords": "安全 扫描 威胁建模 漏洞",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\security-best-practices"
+    },
+    {
+      "num": 131,
+      "type": "skill_detail",
+      "category": "浏览器自动化",
+      "name": "playwright 全家桶",
+      "description": "playwright + playwright-interactive — 浏览器自动化测试和交互调试",
+      "trigger_keywords": "playwright 浏览器 自动化 测试",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\playwright"
+    },
+    {
+      "num": 132,
+      "type": "skill_detail",
+      "category": "PPT工具",
+      "name": "gorden PPT 全家桶",
+      "description": "GordenSuperPPTSkill + GordenImagePPTGen + GordenImage2PPTX — 图片版PPT生成 + 可编辑PPT还原，端到端全流程",
+      "trigger_keywords": "ppt PPT 幻灯片 图片转可编辑",
+      "path": "C:\\Users\\Administrator\\.codex\\skills\\GordenSuperPPTSkill"
+    },
+    {
+      "num": 133,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "cloudflare",
+      "description": "cloudflare 插件",
+      "trigger_keywords": "cloudflare",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\cloudflare"
+    },
+    {
+      "num": 134,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "digitalocean",
+      "description": "digitalocean 插件",
+      "trigger_keywords": "digitalocean",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\digitalocean"
+    },
+    {
+      "num": 135,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "hostinger",
+      "description": "hostinger 插件",
+      "trigger_keywords": "hostinger",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\hostinger"
+    },
+    {
+      "num": 136,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "netlify",
+      "description": "netlify 插件",
+      "trigger_keywords": "netlify",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\netlify"
+    },
+    {
+      "num": 137,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "vercel",
+      "description": "vercel 插件",
+      "trigger_keywords": "vercel",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\vercel"
+    },
+    {
+      "num": 138,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "render",
+      "description": "render 插件",
+      "trigger_keywords": "render",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\render"
+    },
+    {
+      "num": 139,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "supabase",
+      "description": "supabase 插件",
+      "trigger_keywords": "supabase",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\supabase"
+    },
+    {
+      "num": 140,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "neon-postgres",
+      "description": "neon-postgres 插件",
+      "trigger_keywords": "neon-postgres",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\neon-postgres"
+    },
+    {
+      "num": 141,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "expo",
+      "description": "expo 插件",
+      "trigger_keywords": "expo",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\expo"
+    },
+    {
+      "num": 142,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "replit",
+      "description": "replit 插件",
+      "trigger_keywords": "replit",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\replit"
+    },
+    {
+      "num": 143,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "responsive",
+      "description": "responsive 插件",
+      "trigger_keywords": "responsive",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\responsive"
+    },
+    {
+      "num": 144,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "build-ios-apps",
+      "description": "build-ios-apps 插件",
+      "trigger_keywords": "build-ios-apps",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\build-ios-apps"
+    },
+    {
+      "num": 145,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "build-macos-apps",
+      "description": "build-macos-apps 插件",
+      "trigger_keywords": "build-macos-apps",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\build-macos-apps"
+    },
+    {
+      "num": 146,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "build-web-apps",
+      "description": "build-web-apps 插件",
+      "trigger_keywords": "build-web-apps",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\build-web-apps"
+    },
+    {
+      "num": 147,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "build-web-data-visualization",
+      "description": "build-web-data-visualization 插件",
+      "trigger_keywords": "build-web-data-visualization",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\build-web-data-visualization"
+    },
+    {
+      "num": 148,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "test-android-apps",
+      "description": "test-android-apps 插件",
+      "trigger_keywords": "test-android-apps",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\test-android-apps"
+    },
+    {
+      "num": 149,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "network-solutions",
+      "description": "network-solutions 插件",
+      "trigger_keywords": "network-solutions",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\network-solutions"
+    },
+    {
+      "num": 150,
+      "type": "plugin_detail",
+      "category": "云基础设施/部署",
+      "name": "wix",
+      "description": "wix 插件",
+      "trigger_keywords": "wix",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\wix"
+    },
+    {
+      "num": 151,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "github",
+      "description": "github 插件",
+      "trigger_keywords": "github",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\github"
+    },
+    {
+      "num": 152,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "circleci",
+      "description": "circleci 插件",
+      "trigger_keywords": "circleci",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\circleci"
+    },
+    {
+      "num": 153,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "coderabbit",
+      "description": "coderabbit 插件",
+      "trigger_keywords": "coderabbit",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\coderabbit"
+    },
+    {
+      "num": 154,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "twilio-developer-kit",
+      "description": "twilio-developer-kit 插件",
+      "trigger_keywords": "twilio-developer-kit",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\twilio-developer-kit"
+    },
+    {
+      "num": 155,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "openai-developers",
+      "description": "openai-developers 插件",
+      "trigger_keywords": "openai-developers",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\openai-developers"
+    },
+    {
+      "num": 156,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "boltz-api-cli",
+      "description": "boltz-api-cli 插件",
+      "trigger_keywords": "boltz-api-cli",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\boltz-api-cli"
+    },
+    {
+      "num": 157,
+      "type": "plugin_detail",
+      "category": "Git/开发协作",
+      "name": "temporal",
+      "description": "temporal 插件",
+      "trigger_keywords": "temporal",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\temporal"
+    },
+    {
+      "num": 158,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "heygen",
+      "description": "heygen 插件",
+      "trigger_keywords": "heygen",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\heygen"
+    },
+    {
+      "num": 159,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "midpage",
+      "description": "midpage 插件",
+      "trigger_keywords": "midpage",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\midpage"
+    },
+    {
+      "num": 160,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "otter-ai",
+      "description": "otter-ai 插件",
+      "trigger_keywords": "otter-ai",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\otter-ai"
+    },
+    {
+      "num": 161,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "fal",
+      "description": "fal 插件",
+      "trigger_keywords": "fal",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\fal"
+    },
+    {
+      "num": 162,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "nvidia",
+      "description": "nvidia 插件",
+      "trigger_keywords": "nvidia",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\nvidia"
+    },
+    {
+      "num": 163,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "hugging-face",
+      "description": "hugging-face 插件",
+      "trigger_keywords": "hugging-face",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\hugging-face"
+    },
+    {
+      "num": 164,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "windsor-ai",
+      "description": "windsor-ai 插件",
+      "trigger_keywords": "windsor-ai",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\windsor-ai"
+    },
+    {
+      "num": 165,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "hebbia",
+      "description": "hebbia 插件",
+      "trigger_keywords": "hebbia",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\hebbia"
+    },
+    {
+      "num": 166,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "read-ai",
+      "description": "read-ai 插件",
+      "trigger_keywords": "read-ai",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\read-ai"
+    },
+    {
+      "num": 167,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "tinman-ai",
+      "description": "tinman-ai 插件",
+      "trigger_keywords": "tinman-ai",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\tinman-ai"
+    },
+    {
+      "num": 168,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "game-studio",
+      "description": "game-studio 插件",
+      "trigger_keywords": "game-studio",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\game-studio"
+    },
+    {
+      "num": 169,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "aiera",
+      "description": "aiera 插件",
+      "trigger_keywords": "aiera",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\aiera"
+    },
+    {
+      "num": 170,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "picsart",
+      "description": "picsart 插件",
+      "trigger_keywords": "picsart",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\picsart"
+    },
+    {
+      "num": 171,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "shutterstock",
+      "description": "shutterstock 插件",
+      "trigger_keywords": "shutterstock",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\shutterstock"
+    },
+    {
+      "num": 172,
+      "type": "plugin_detail",
+      "category": "AI/图像/视频生成",
+      "name": "biorender",
+      "description": "biorender 插件",
+      "trigger_keywords": "biorender",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\biorender"
+    },
+    {
+      "num": 173,
+      "type": "plugin_detail",
+      "category": "设计工具",
+      "name": "figma",
+      "description": "figma 插件",
+      "trigger_keywords": "figma",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\figma"
+    },
+    {
+      "num": 174,
+      "type": "plugin_detail",
+      "category": "设计工具",
+      "name": "canva",
+      "description": "canva 插件",
+      "trigger_keywords": "canva",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\canva"
+    },
+    {
+      "num": 175,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "hubspot",
+      "description": "hubspot 插件",
+      "trigger_keywords": "hubspot",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\hubspot"
+    },
+    {
+      "num": 176,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "pipedrive",
+      "description": "pipedrive 插件",
+      "trigger_keywords": "pipedrive",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\pipedrive"
+    },
+    {
+      "num": 177,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "monday-com",
+      "description": "monday-com 插件",
+      "trigger_keywords": "monday-com",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\monday-com"
+    },
+    {
+      "num": 178,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "clickup",
+      "description": "clickup 插件",
+      "trigger_keywords": "clickup",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\clickup"
+    },
+    {
+      "num": 179,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "asana",
+      "description": "asana 插件",
+      "trigger_keywords": "asana",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\asana"
+    },
+    {
+      "num": 180,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "linear",
+      "description": "linear 插件",
+      "trigger_keywords": "linear",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\linear"
+    },
+    {
+      "num": 181,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "attio",
+      "description": "attio 插件",
+      "trigger_keywords": "attio",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\attio"
+    },
+    {
+      "num": 182,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "close",
+      "description": "close 插件",
+      "trigger_keywords": "close",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\close"
+    },
+    {
+      "num": 183,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "outreach",
+      "description": "outreach 插件",
+      "trigger_keywords": "outreach",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\outreach"
+    },
+    {
+      "num": 184,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "superhuman",
+      "description": "superhuman 插件",
+      "trigger_keywords": "superhuman",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\superhuman"
+    },
+    {
+      "num": 185,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "streak",
+      "description": "streak 插件",
+      "trigger_keywords": "streak",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\streak"
+    },
+    {
+      "num": 186,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "teamwork-com",
+      "description": "teamwork-com 插件",
+      "trigger_keywords": "teamwork-com",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\teamwork-com"
+    },
+    {
+      "num": 187,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "zoho",
+      "description": "zoho 插件",
+      "trigger_keywords": "zoho",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\zoho"
+    },
+    {
+      "num": 188,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "highlevel",
+      "description": "highlevel 插件",
+      "trigger_keywords": "highlevel",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\highlevel"
+    },
+    {
+      "num": 189,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "help-scout",
+      "description": "help-scout 插件",
+      "trigger_keywords": "help-scout",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\help-scout"
+    },
+    {
+      "num": 190,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "intercom",
+      "description": "intercom 插件",
+      "trigger_keywords": "intercom",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\intercom"
+    },
+    {
+      "num": 191,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "clay",
+      "description": "clay 插件",
+      "trigger_keywords": "clay",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\clay"
+    },
+    {
+      "num": 192,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "catalyst-by-zoho",
+      "description": "catalyst-by-zoho 插件",
+      "trigger_keywords": "catalyst-by-zoho",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\catalyst-by-zoho"
+    },
+    {
+      "num": 193,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "carta-crm",
+      "description": "carta-crm 插件",
+      "trigger_keywords": "carta-crm",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\carta-crm"
+    },
+    {
+      "num": 194,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "brighthire",
+      "description": "brighthire 插件",
+      "trigger_keywords": "brighthire",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\brighthire"
+    },
+    {
+      "num": 195,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "demandbase",
+      "description": "demandbase 插件",
+      "trigger_keywords": "demandbase",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\demandbase"
+    },
+    {
+      "num": 196,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "marcopolo",
+      "description": "marcopolo 插件",
+      "trigger_keywords": "marcopolo",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\marcopolo"
+    },
+    {
+      "num": 197,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "common-room",
+      "description": "common-room 插件",
+      "trigger_keywords": "common-room",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\common-room"
+    },
+    {
+      "num": 198,
+      "type": "plugin_detail",
+      "category": "CRM/销售/客户管理",
+      "name": "conductor",
+      "description": "conductor 插件",
+      "trigger_keywords": "conductor",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\conductor"
+    },
+    {
+      "num": 199,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "airtable",
+      "description": "airtable 插件",
+      "trigger_keywords": "airtable",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\airtable"
+    },
+    {
+      "num": 200,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "datadog",
+      "description": "datadog 插件",
+      "trigger_keywords": "datadog",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\datadog"
+    },
+    {
+      "num": 201,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "mixpanel",
+      "description": "mixpanel 插件",
+      "trigger_keywords": "mixpanel",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\mixpanel"
+    },
+    {
+      "num": 202,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "posthog",
+      "description": "posthog 插件",
+      "trigger_keywords": "posthog",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\posthog"
+    },
+    {
+      "num": 203,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "cube",
+      "description": "cube 插件",
+      "trigger_keywords": "cube",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\cube"
+    },
+    {
+      "num": 204,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "daloopa",
+      "description": "daloopa 插件",
+      "trigger_keywords": "daloopa",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\daloopa"
+    },
+    {
+      "num": 205,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "motherduck",
+      "description": "motherduck 插件",
+      "trigger_keywords": "motherduck",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\motherduck"
+    },
+    {
+      "num": 206,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "deepnote",
+      "description": "deepnote 插件",
+      "trigger_keywords": "deepnote",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\deepnote"
+    },
+    {
+      "num": 207,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "hex",
+      "description": "hex 插件",
+      "trigger_keywords": "hex",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\hex"
+    },
+    {
+      "num": 208,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "similarweb",
+      "description": "similarweb 插件",
+      "trigger_keywords": "similarweb",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\similarweb"
+    },
+    {
+      "num": 209,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "semrush",
+      "description": "semrush 插件",
+      "trigger_keywords": "semrush",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\semrush"
+    },
+    {
+      "num": 210,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "cb-insights",
+      "description": "cb-insights 插件",
+      "trigger_keywords": "cb-insights",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\cb-insights"
+    },
+    {
+      "num": 211,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "pitchbook",
+      "description": "pitchbook 插件",
+      "trigger_keywords": "pitchbook",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\pitchbook"
+    },
+    {
+      "num": 212,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "factset",
+      "description": "factset 插件",
+      "trigger_keywords": "factset",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\factset"
+    },
+    {
+      "num": 213,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "morningstar",
+      "description": "morningstar 插件",
+      "trigger_keywords": "morningstar",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\morningstar"
+    },
+    {
+      "num": 214,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "moody-s",
+      "description": "moody-s 插件",
+      "trigger_keywords": "moody-s",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\moody-s"
+    },
+    {
+      "num": 215,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "lseg",
+      "description": "lseg 插件",
+      "trigger_keywords": "lseg",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\lseg"
+    },
+    {
+      "num": 216,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "dow-jones-factiva",
+      "description": "dow-jones-factiva 插件",
+      "trigger_keywords": "dow-jones-factiva",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\dow-jones-factiva"
+    },
+    {
+      "num": 217,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "mt-newswires",
+      "description": "mt-newswires 插件",
+      "trigger_keywords": "mt-newswires",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\mt-newswires"
+    },
+    {
+      "num": 218,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "third-bridge",
+      "description": "third-bridge 插件",
+      "trigger_keywords": "third-bridge",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\third-bridge"
+    },
+    {
+      "num": 219,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "thoughtspot",
+      "description": "thoughtspot 插件",
+      "trigger_keywords": "thoughtspot",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\thoughtspot"
+    },
+    {
+      "num": 220,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "omni-analytics",
+      "description": "omni-analytics 插件",
+      "trigger_keywords": "omni-analytics",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\omni-analytics"
+    },
+    {
+      "num": 221,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "granola",
+      "description": "granola 插件",
+      "trigger_keywords": "granola",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\granola"
+    },
+    {
+      "num": 222,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "taxdown",
+      "description": "taxdown 插件",
+      "trigger_keywords": "taxdown",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\taxdown"
+    },
+    {
+      "num": 223,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "ranked-ai",
+      "description": "ranked-ai 插件",
+      "trigger_keywords": "ranked-ai",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\ranked-ai"
+    },
+    {
+      "num": 224,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "meticulate",
+      "description": "meticulate 插件",
+      "trigger_keywords": "meticulate",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\meticulate"
+    },
+    {
+      "num": 225,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "readwise",
+      "description": "readwise 插件",
+      "trigger_keywords": "readwise",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\readwise"
+    },
+    {
+      "num": 226,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "zotero",
+      "description": "zotero 插件",
+      "trigger_keywords": "zotero",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\zotero"
+    },
+    {
+      "num": 227,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "amplitude",
+      "description": "amplitude 插件",
+      "trigger_keywords": "amplitude",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\amplitude"
+    },
+    {
+      "num": 228,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "apollo",
+      "description": "apollo 插件",
+      "trigger_keywords": "apollo",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\apollo"
+    },
+    {
+      "num": 229,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "scite",
+      "description": "scite 插件",
+      "trigger_keywords": "scite",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\scite"
+    },
+    {
+      "num": 230,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "glean",
+      "description": "glean 插件",
+      "trigger_keywords": "glean",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\glean"
+    },
+    {
+      "num": 231,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "alation",
+      "description": "alation 插件",
+      "trigger_keywords": "alation",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\alation"
+    },
+    {
+      "num": 232,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "keybid-puls",
+      "description": "keybid-puls 插件",
+      "trigger_keywords": "keybid-puls",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\keybid-puls"
+    },
+    {
+      "num": 233,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "dnb-finance-analytics",
+      "description": "dnb-finance-analytics 插件",
+      "trigger_keywords": "dnb-finance-analytics",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\dnb-finance-analytics"
+    },
+    {
+      "num": 234,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "hg-insights",
+      "description": "hg-insights 插件",
+      "trigger_keywords": "hg-insights",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\hg-insights"
+    },
+    {
+      "num": 235,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "particl-market-research",
+      "description": "particl-market-research 插件",
+      "trigger_keywords": "particl-market-research",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\particl-market-research"
+    },
+    {
+      "num": 236,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "life-science-research",
+      "description": "life-science-research 插件",
+      "trigger_keywords": "life-science-research",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\life-science-research"
+    },
+    {
+      "num": 237,
+      "type": "plugin_detail",
+      "category": "数据分析/商业智能",
+      "name": "ngs-analysis",
+      "description": "ngs-analysis 插件",
+      "trigger_keywords": "ngs-analysis",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\ngs-analysis"
+    },
+    {
+      "num": 238,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "box",
+      "description": "box 插件",
+      "trigger_keywords": "box",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\box"
+    },
+    {
+      "num": 239,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "egnyte",
+      "description": "egnyte 插件",
+      "trigger_keywords": "egnyte",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\egnyte"
+    },
+    {
+      "num": 240,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "sharepoint",
+      "description": "sharepoint 插件",
+      "trigger_keywords": "sharepoint",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\sharepoint"
+    },
+    {
+      "num": 241,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "docket",
+      "description": "docket 插件",
+      "trigger_keywords": "docket",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\docket"
+    },
+    {
+      "num": 242,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "docusign",
+      "description": "docusign 插件",
+      "trigger_keywords": "docusign",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\docusign"
+    },
+    {
+      "num": 243,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "signnow",
+      "description": "signnow 插件",
+      "trigger_keywords": "signnow",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\signnow"
+    },
+    {
+      "num": 244,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "govtribe",
+      "description": "govtribe 插件",
+      "trigger_keywords": "govtribe",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\govtribe"
+    },
+    {
+      "num": 245,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "myregistry-com",
+      "description": "myregistry-com 插件",
+      "trigger_keywords": "myregistry-com",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\myregistry-com"
+    },
+    {
+      "num": 246,
+      "type": "plugin_detail",
+      "category": "文档/合同/存储",
+      "name": "plugin-eval",
+      "description": "plugin-eval 插件",
+      "trigger_keywords": "plugin-eval",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\plugin-eval"
+    },
+    {
+      "num": 247,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "stripe",
+      "description": "stripe 插件",
+      "trigger_keywords": "stripe",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\stripe"
+    },
+    {
+      "num": 248,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "razorpay",
+      "description": "razorpay 插件",
+      "trigger_keywords": "razorpay",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\razorpay"
+    },
+    {
+      "num": 249,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "quicknode",
+      "description": "quicknode 插件",
+      "trigger_keywords": "quicknode",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\quicknode"
+    },
+    {
+      "num": 250,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "binance",
+      "description": "binance 插件",
+      "trigger_keywords": "binance",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\binance"
+    },
+    {
+      "num": 251,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "fiscal-ai",
+      "description": "fiscal-ai 插件",
+      "trigger_keywords": "fiscal-ai",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\fiscal-ai"
+    },
+    {
+      "num": 252,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "setu-bharat-connect-billpay",
+      "description": "setu-bharat-connect-billpay 插件",
+      "trigger_keywords": "setu-bharat-connect-billpay",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\setu-bharat-connect-billpay"
+    },
+    {
+      "num": 253,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "quickbooks",
+      "description": "quickbooks 插件",
+      "trigger_keywords": "quickbooks",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\quickbooks"
+    },
+    {
+      "num": 254,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "coupler-io",
+      "description": "coupler-io 插件",
+      "trigger_keywords": "coupler-io",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\coupler-io"
+    },
+    {
+      "num": 255,
+      "type": "plugin_detail",
+      "category": "金融/支付/财税",
+      "name": "coveo",
+      "description": "coveo 插件",
+      "trigger_keywords": "coveo",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\coveo"
+    },
+    {
+      "num": 256,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "google-calendar",
+      "description": "google-calendar 插件",
+      "trigger_keywords": "google-calendar",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\google-calendar"
+    },
+    {
+      "num": 257,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "outlook-calendar",
+      "description": "outlook-calendar 插件",
+      "trigger_keywords": "outlook-calendar",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\outlook-calendar"
+    },
+    {
+      "num": 258,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "slack",
+      "description": "slack 插件",
+      "trigger_keywords": "slack",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\slack"
+    },
+    {
+      "num": 259,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "zoominfo",
+      "description": "zoominfo 插件",
+      "trigger_keywords": "zoominfo",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\zoominfo"
+    },
+    {
+      "num": 260,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "sendgrid",
+      "description": "sendgrid 插件",
+      "trigger_keywords": "sendgrid",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\sendgrid"
+    },
+    {
+      "num": 261,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "calendly",
+      "description": "calendly 插件",
+      "trigger_keywords": "calendly",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\calendly"
+    },
+    {
+      "num": 262,
+      "type": "plugin_detail",
+      "category": "日历/通讯/邮件",
+      "name": "outreach",
+      "description": "outreach 插件",
+      "trigger_keywords": "outreach",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\outreach"
+    },
+    {
+      "num": 263,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "waldo",
+      "description": "waldo 插件",
+      "trigger_keywords": "waldo",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\waldo"
+    },
+    {
+      "num": 264,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "weatherpromise",
+      "description": "weatherpromise 插件",
+      "trigger_keywords": "weatherpromise",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\weatherpromise"
+    },
+    {
+      "num": 265,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "domotz-preview",
+      "description": "domotz-preview 插件",
+      "trigger_keywords": "domotz-preview",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\domotz-preview"
+    },
+    {
+      "num": 266,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "skywatch",
+      "description": "skywatch 插件",
+      "trigger_keywords": "skywatch",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\skywatch"
+    },
+    {
+      "num": 267,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "rox",
+      "description": "rox 插件",
+      "trigger_keywords": "rox",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\rox"
+    },
+    {
+      "num": 268,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "replayio",
+      "description": "replayio 插件",
+      "trigger_keywords": "replayio",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\replayio"
+    },
+    {
+      "num": 269,
+      "type": "plugin_detail",
+      "category": "测试/质量/监控",
+      "name": "sentry替代",
+      "description": "sentry替代 插件",
+      "trigger_keywords": "sentry替代",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\sentry替代"
+    },
+    {
+      "num": 270,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "glean",
+      "description": "glean 插件",
+      "trigger_keywords": "glean",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\glean"
+    },
+    {
+      "num": 271,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "scite",
+      "description": "scite 插件",
+      "trigger_keywords": "scite",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\scite"
+    },
+    {
+      "num": 272,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "zotero",
+      "description": "zotero 插件",
+      "trigger_keywords": "zotero",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\zotero"
+    },
+    {
+      "num": 273,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "readwise",
+      "description": "readwise 插件",
+      "trigger_keywords": "readwise",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\readwise"
+    },
+    {
+      "num": 274,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "lotview替代",
+      "description": "lotview替代 插件",
+      "trigger_keywords": "lotview替代",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\lotview替代"
+    },
+    {
+      "num": 275,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "quartr",
+      "description": "quartr 插件",
+      "trigger_keywords": "quartr",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\quartr"
+    },
+    {
+      "num": 276,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "policynote",
+      "description": "policynote 插件",
+      "trigger_keywords": "policynote",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\policynote"
+    },
+    {
+      "num": 277,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "finn",
+      "description": "finn 插件",
+      "trigger_keywords": "finn",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\finn"
+    },
+    {
+      "num": 278,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "jams替代",
+      "description": "jams替代 插件",
+      "trigger_keywords": "jams替代",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\jams替代"
+    },
+    {
+      "num": 279,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "jam",
+      "description": "jam 插件",
+      "trigger_keywords": "jam",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\jam"
+    },
+    {
+      "num": 280,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "happenstance",
+      "description": "happenstance 插件",
+      "trigger_keywords": "happenstance",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\happenstance"
+    },
+    {
+      "num": 281,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "cogedim",
+      "description": "cogedim 插件",
+      "trigger_keywords": "cogedim",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\cogedim"
+    },
+    {
+      "num": 282,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "brand24",
+      "description": "brand24 插件",
+      "trigger_keywords": "brand24",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\brand24"
+    },
+    {
+      "num": 283,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "chronograph-gp",
+      "description": "chronograph-gp 插件",
+      "trigger_keywords": "chronograph-gp",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\chronograph-gp"
+    },
+    {
+      "num": 284,
+      "type": "plugin_detail",
+      "category": "搜索/研究/内容",
+      "name": "chronograph-lp",
+      "description": "chronograph-lp 插件",
+      "trigger_keywords": "chronograph-lp",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\chronograph-lp"
+    },
+    {
+      "num": 285,
+      "type": "plugin_detail",
+      "category": "其他/杂项",
+      "name": "actively",
+      "description": "actively 插件",
+      "trigger_keywords": "actively",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\actively"
+    },
+    {
+      "num": 286,
+      "type": "plugin_detail",
+      "category": "其他/杂项",
+      "name": "cache",
+      "description": "cache 插件",
+      "trigger_keywords": "cache",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\cache"
+    },
+    {
+      "num": 287,
+      "type": "plugin_detail",
+      "category": "其他/杂项",
+      "name": "base44",
+      "description": "base44 插件",
+      "trigger_keywords": "base44",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\base44"
+    },
+    {
+      "num": 288,
+      "type": "plugin_detail",
+      "category": "其他/杂项",
+      "name": "convex",
+      "description": "convex 插件",
+      "trigger_keywords": "convex",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\convex"
+    },
+    {
+      "num": 289,
+      "type": "plugin_detail",
+      "category": "其他/杂项",
+      "name": "dev替代",
+      "description": "dev替代 插件",
+      "trigger_keywords": "dev替代",
+      "path": "C:\\Users\\Administrator\\.codex\\plugins\\cache\\personal\\dev替代"
+    },
+    {
+      "num": 290,
+      "type": "mcp_detail",
+      "category": "MCP Server",
+      "name": "codex-security",
+      "description": "Codex 安全扫描框架：finding-discovery, validation, attack-path-analysis, threat-model, fix-finding, track-findings, security-diff-scan, deep-security-scan, triage-finding",
+      "trigger_keywords": "安全 扫描 漏洞 威胁建模",
+      "path": "MCP Server: codex-security"
+    },
+    {
+      "num": 291,
+      "type": "closing",
+      "title": "感谢使用",
+      "subtitle": "Codex 技能全景索引",
+      "meta": "共 291 页 | 107 Skills + 120+ Plugins + 1 MCP"
+    }
+  ]
+}

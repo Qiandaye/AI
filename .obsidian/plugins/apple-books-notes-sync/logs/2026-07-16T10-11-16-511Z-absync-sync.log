@@ -1,0 +1,12 @@
+Command: absync sync
+Started: 2026-07-16T10:11:16.509Z
+
+
+FAILED
+CliResolutionError: absync CLI path is required.
+    at AppleBooksNotesSyncPlugin.resolveAbsyncCli (plugin:apple-books-notes-sync:569:13)
+    at AppleBooksNotesSyncPlugin.runAbsyncJson (plugin:apple-books-notes-sync:407:28)
+    at runVisibleCommand.reportDialogOnSuccess (plugin:apple-books-notes-sync:363:56)
+    at AppleBooksNotesSyncPlugin.runVisibleCommand (plugin:apple-books-notes-sync:826:28)
+    at AppleBooksNotesSyncPlugin.runSyncCommand (plugin:apple-books-notes-sync:357:16)
+    at HTMLDivElement.eval (plugin:apple-books-notes-sync:185:17)

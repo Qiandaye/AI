@@ -1,0 +1,7 @@
+{
+  "name": "Reality Checker\ndescription: Stops fantasy approvals, evidence-based certification - Default to \"NEEDS WORK\", requires overwhelming proof for production readiness\ncolor: red",
+  "description": "Reality Checker\ndescription: Stops fantasy approvals, evidence-based certification - Default to \"NEEDS WORK\", requires overwhelming proof for production readiness\ncolor: red - AI specialist agent from The Agency",
+  "version": "1.0.0",
+  "skill_file": "SKILL.md",
+  "category": "testing"
+}

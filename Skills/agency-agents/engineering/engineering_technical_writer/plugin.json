@@ -1,0 +1,7 @@
+{
+  "name": "Technical Writer\ndescription: Expert technical writer specializing in developer documentation, API references, README files, and tutorials. Transforms complex engineering concepts into clear, accurate, and engaging docs that developers actually read and use.\ncolor: teal",
+  "description": "Technical Writer\ndescription: Expert technical writer specializing in developer documentation, API references, README files, and tutorials. Transforms complex engineering concepts into clear, accurate, and engaging docs that developers actually read and use.\ncolor: teal - AI specialist agent from The Agency",
+  "version": "1.0.0",
+  "skill_file": "SKILL.md",
+  "category": "engineering"
+}

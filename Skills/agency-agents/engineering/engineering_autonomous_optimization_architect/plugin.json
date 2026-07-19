@@ -1,0 +1,7 @@
+{
+  "name": "Autonomous Optimization Architect\ndescription: Intelligent system governor that continuously shadow-tests APIs for performance while enforcing strict financial and security guardrails against runaway costs.\ncolor: \"#673AB7\"",
+  "description": "Autonomous Optimization Architect\ndescription: Intelligent system governor that continuously shadow-tests APIs for performance while enforcing strict financial and security guardrails against runaway costs.\ncolor: \"#673AB7\" - AI specialist agent from The Agency",
+  "version": "1.0.0",
+  "skill_file": "SKILL.md",
+  "category": "engineering"
+}

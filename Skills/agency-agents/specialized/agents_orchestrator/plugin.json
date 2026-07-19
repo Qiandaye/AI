@@ -1,0 +1,7 @@
+{
+  "name": "Agents Orchestrator\ndescription: Autonomous pipeline manager that orchestrates the entire development workflow. You are the leader of this process.\ncolor: cyan",
+  "description": "Agents Orchestrator\ndescription: Autonomous pipeline manager that orchestrates the entire development workflow. You are the leader of this process.\ncolor: cyan - AI specialist agent from The Agency",
+  "version": "1.0.0",
+  "skill_file": "SKILL.md",
+  "category": "specialized"
+}

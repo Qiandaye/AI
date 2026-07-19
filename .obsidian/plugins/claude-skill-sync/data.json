@@ -1,0 +1,20 @@
+{
+  "skillRoot": "Skills",
+  "platforms": [
+    {
+      "name": "Claude Code",
+      "target": "~/.claude/skills",
+      "enabled": true
+    },
+    {
+      "name": "Codex / Agents",
+      "target": "~/.agents/skills",
+      "enabled": true
+    }
+  ],
+  "notifyOnStartup": true,
+  "autoScanIntervalMin": 5,
+  "autoInstall": true,
+  "autoImport": false,
+  "usageRange": "all"
+}

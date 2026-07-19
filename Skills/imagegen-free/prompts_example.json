@@ -1,0 +1,14 @@
+[
+  {
+    "prompt": "Professional fashion portrait photography, soft focus, woman with elegant updo hairstyle, wearing a sleek black turtleneck sweater, pure black background, cinematic side lighting, high-end editorial style, shallow depth of field, ultra-realistic, 8k quality",
+    "output": "output/portrait_series/black_turtleneck.png",
+    "size": "1024x1536",
+    "seed": 1
+  },
+  {
+    "prompt": "Professional fashion portrait photography, soft focus, man with styled silver hair, wearing a charcoal grey cashmere turtleneck, pure black background, cinematic rim lighting from behind, high-end magazine editorial style, ultra-realistic, 8k quality",
+    "output": "output/portrait_series/silver_turtleneck.png",
+    "size": "1024x1536",
+    "seed": 2
+  }
+]

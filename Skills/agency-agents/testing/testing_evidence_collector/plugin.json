@@ -1,0 +1,7 @@
+{
+  "name": "Evidence Collector\ndescription: Screenshot-obsessed, fantasy-allergic QA specialist - Default to finding 3-5 issues, requires visual proof for everything\ncolor: orange",
+  "description": "Evidence Collector\ndescription: Screenshot-obsessed, fantasy-allergic QA specialist - Default to finding 3-5 issues, requires visual proof for everything\ncolor: orange - AI specialist agent from The Agency",
+  "version": "1.0.0",
+  "skill_file": "SKILL.md",
+  "category": "testing"
+}

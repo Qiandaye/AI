@@ -1,0 +1,7 @@
+{
+  "name": "Data Analytics Reporter\ndescription: Expert data analyst transforming raw data into actionable business insights. Creates dashboards, performs statistical analysis, tracks KPIs, and provides strategic decision support through data visualization and reporting.\ntools: WebFetch, WebSearch, Read, Write, Edit\ncolor: indigo",
+  "description": "Data Analytics Reporter\ndescription: Expert data analyst transforming raw data into actionable business insights. Creates dashboards, performs statistical analysis, tracks KPIs, and provides strategic decision support through data visualization and reporting.\ntools: WebFetch, WebSearch, Read, Write, Edit\ncolor: indigo - AI specialist agent from The Agency",
+  "version": "1.0.0",
+  "skill_file": "SKILL.md",
+  "category": "specialized"
+}

@@ -1,0 +1,747 @@
+[
+  {
+    "num": 1,
+    "type": "cover",
+    "title": "Codex 技能全景索引",
+    "subtitle": "全部 Skills · 插件 · MCP Server",
+    "meta": "2026-07-06 | 107 Skills + 120+ Plugins + 1 MCP"
+  },
+  {
+    "num": 2,
+    "type": "toc",
+    "title": "目录",
+    "sections": [
+      "第一部分：Skills（107 个，16 个分类）",
+      "第二部分：Plugins（120+ 个，12 个分类）",
+      "第三部分：MCP Server（1 个）"
+    ]
+  },
+  {
+    "num": 3,
+    "type": "category_overview",
+    "category": "数据/搜索",
+    "count": 6,
+    "skills": [
+      {
+        "name": "a-stock-data",
+        "desc": "A股全栈数据工具包 — 覆盖行情(mootdx+腾讯+百度K线)、研报(东财+同花顺+iwencai)、信号(同花顺热点+北向+龙虎榜+解禁+行业)、资金面(融资融券+大宗交易+股东户数+分红+资金流分钟级+资金流120日)、新闻(东财个股..."
+      },
+      {
+        "name": "agent-reach",
+        "desc": ">"
+      },
+      {
+        "name": "ai-image-prompts-skill",
+        "desc": "--- name: ai-image-prompts-skill description: |   Recommend curated prompts from a 10,000+ real-world image generation p..."
+      },
+      {
+        "name": "anysearch",
+        "desc": "Real-time search engine supporting web search, vertical domain search, parallel batch search, and URL content extraction..."
+      },
+      {
+        "name": "knowledge-agent",
+        "desc": "Build and query AI-powered knowledge bases from claude-mem observations. Use when users want to create focused \"brains\" ..."
+      },
+      {
+        "name": "mem-search",
+        "desc": "Search claude-mem's persistent cross-session memory database. Use when user asks \"did we already solve this?\", \"how did ..."
+      }
+    ]
+  },
+  {
+    "num": 4,
+    "type": "category_overview",
+    "category": "前端/设计",
+    "count": 14,
+    "skills": [
+      {
+        "name": "design-taste-frontend",
+        "desc": "Anti-slop frontend skill for landing pages, portfolios, and redesigns. The agent reads the brief, infers the right desig..."
+      },
+      {
+        "name": "frontend-design",
+        "desc": "﻿This skill guides creation of distinctive, production-grade frontend interfaces that avoid generic \"AI slop\" aesthetics..."
+      },
+      {
+        "name": "gpt-taste",
+        "desc": "Elite UX/UI & Advanced GSAP Motion Engineer. Enforces Python-driven true randomization for layout variance, strict AIDA ..."
+      },
+      {
+        "name": "high-end-visual-design",
+        "desc": "Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animati..."
+      },
+      {
+        "name": "impeccable",
+        "desc": "Use when the user wants to design, redesign, shape, critique, audit, polish, clarify, distill, harden, optimize, adapt, ..."
+      },
+      {
+        "name": "minimalist-ui",
+        "desc": "Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels. No gra..."
+      },
+      {
+        "name": "industrial-brutalist-ui",
+        "desc": "Raw mechanical interfaces fusing Swiss typographic print with military terminal aesthetics. Rigid grids, extreme type sc..."
+      },
+      {
+        "name": "stitch-design-taste",
+        "desc": "Semantic Design System Skill for Google Stitch. Generates agent-friendly DESIGN.md files that enforce premium, anti-gene..."
+      },
+      {
+        "name": "taste-skill",
+        "desc": "暂无描述"
+      },
+      {
+        "name": "ui-ux-pro-max",
+        "desc": "# {{TITLE}}  {{DESCRIPTION}} {{QUICK_REFERENCE}} # Prerequisites  Check if Python is installed:  ```bash python3 --versi..."
+      },
+      {
+        "name": "image-to-code",
+        "desc": "Elite website image-to-code skill for Codex. For visually important web tasks, it must first generate the design image(s..."
+      },
+      {
+        "name": "redesign-existing-projects",
+        "desc": "Upgrades existing websites and apps to premium quality. Audits current design, identifies generic AI patterns, and appli..."
+      },
+      {
+        "name": "imagegen-frontend-web",
+        "desc": "Elite frontend image-direction skill for generating premium, conversion-aware website design references. CRITICAL OUTPUT..."
+      },
+      {
+        "name": "imagegen-frontend-mobile",
+        "desc": "Elite mobile app image-generation skill for creating premium, app-native screen concepts and flows. Designed for iOS, An..."
+      }
+    ]
+  },
+  {
+    "num": 5,
+    "type": "category_overview",
+    "category": "图片/视觉",
+    "count": 4,
+    "skills": [
+      {
+        "name": "imagegen-free",
+        "desc": "Free AI image generation using Pollinations.ai — no API key required. Use when the built-in image_gen tool is unavailabl..."
+      },
+      {
+        "name": "brandkit",
+        "desc": "Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, an..."
+      },
+      {
+        "name": "hatch-pet",
+        "desc": "Create, repair, validate, visually QA, and package Codex-compatible animated pets and pet spritesheets from character ar..."
+      },
+      {
+        "name": "screenshot",
+        "desc": "Use when the user explicitly asks for a desktop or system screenshot (full screen, specific app or window, or a pixel re..."
+      }
+    ]
+  },
+  {
+    "num": 6,
+    "type": "category_overview",
+    "category": "文档/办公",
+    "count": 5,
+    "skills": [
+      {
+        "name": "doc-excel-toolkit",
+        "desc": "Analyze local documents (PDF, DOCX, TXT) and process Excel spreadsheets (XLSX, XLS, CSV). Supports reading, extracting, ..."
+      },
+      {
+        "name": "pdf",
+        "desc": "Use when tasks involve reading, creating, or reviewing PDF files where rendering and layout matter; prefer visual checks..."
+      },
+      {
+        "name": "speech",
+        "desc": "Use when the user asks for text-to-speech narration or voiceover, accessibility reads, audio prompts, or batch speech ge..."
+      },
+      {
+        "name": "transcribe",
+        "desc": "Transcribe audio files to text with optional diarization and known-speaker hints. Use when a user asks to transcribe spe..."
+      },
+      {
+        "name": "jupyter-notebook",
+        "desc": "Use when the user asks to create, scaffold, or edit Jupyter notebooks (`.ipynb`) for experiments, explorations, or tutor..."
+      }
+    ]
+  },
+  {
+    "num": 7,
+    "type": "category_overview",
+    "category": "PPT",
+    "count": 4,
+    "skills": [
+      {
+        "name": "GordenImage2PPTX",
+        "desc": "暂无描述"
+      },
+      {
+        "name": "GordenImagePPTGen",
+        "desc": "暂无描述"
+      },
+      {
+        "name": "GordenSuperPPTSkill",
+        "desc": "暂无描述"
+      },
+      {
+        "name": "guizang-ppt-skill",
+        "desc": "生成横向翻页网页 PPT（单 HTML 文件），含 WebGL 背景、章节幕封、数据大字报、图片网格等模板。提供两种风格：① \"电子杂志 × 电子墨水\"（衬线 + 流体背景 + 暖色） ② \"瑞士国际主义\"（无衬线 + 网格点阵 + IKB..."
+      }
+    ]
+  },
+  {
+    "num": 8,
+    "type": "category_overview",
+    "category": "写作",
+    "count": 3,
+    "skills": [
+      {
+        "name": "khazix-writer",
+        "desc": "暂无描述"
+      },
+      {
+        "name": "humanizer-zh",
+        "desc": "--- name: humanizer-zh description: |   去除文本中的 AI 生成痕迹。适用于编辑或审阅文本，使其听起来更自然、更像人类书写。   基于维基百科的\"AI 写作特征\"综合指南。检测并修复以下模式：夸大的象..."
+      },
+      {
+        "name": "stop-slop",
+        "desc": "Remove AI writing patterns from prose. Use when drafting, editing, or reviewing text to eliminate predictable AI tells."
+      }
+    ]
+  },
+  {
+    "num": 9,
+    "type": "category_overview",
+    "category": "部署",
+    "count": 5,
+    "skills": [
+      {
+        "name": "vercel-deploy",
+        "desc": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy ..."
+      },
+      {
+        "name": "netlify-deploy",
+        "desc": "Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, o..."
+      },
+      {
+        "name": "cloudflare-deploy",
+        "desc": "Deploy applications and infrastructure to Cloudflare using Workers, Pages, and related platform services. Use when the u..."
+      },
+      {
+        "name": "render-deploy",
+        "desc": "Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints, and providing Dashboard deeplin..."
+      },
+      {
+        "name": "yeet",
+        "desc": "Use only when the user explicitly asks to stage, commit, push, and open a GitHub pull request in one flow using the GitH..."
+      }
+    ]
+  },
+  {
+    "num": 10,
+    "type": "category_overview",
+    "category": "飞书/Lark",
+    "count": 27,
+    "skills": [
+      {
+        "name": "lark-approval",
+        "desc": "飞书审批：查询和处理审批待办/已办/实例，搜索可发起审批定义、查看定义详情并发起原生审批实例。当用户要处理审批任务、查看审批实例、搜索或发起审批时使用。审批待办不是飞书任务；非审批类待办走 lark-task。不负责创建审批定义；三方审批定..."
+      },
+      {
+        "name": "lark-apps",
+        "desc": "妙搭（Spark/Miaoda）应用开发与托管：应用创建、HTML静态站点发布、本地全栈开发、云端生成迭代、AI相关能力和飞书平台能力或者其他外部能力集成、日志/Trace/监控指标/PV/UV 查询、环境变量管理。当用户要开发/新建一个系..."
+      },
+      {
+        "name": "lark-attendance",
+        "desc": "飞书考勤打卡：查询自己的考勤打卡记录"
+      },
+      {
+        "name": "lark-base",
+        "desc": "飞书多维表格（Base）操作：建表、字段、记录、视图、统计、公式/lookup、表单、仪表盘、workflow、角色权限；遇到 Base/多维表格/bitable 或 /base/ 链接时使用。文件导入转 lark-drive，认证/授权转..."
+      },
+      {
+        "name": "lark-calendar",
+        "desc": "飞书日历：管理日历日程和会议室。查看/搜索日程、创建/更新日程、管理参会人、查询忙闲和推荐时段、预定会议室。当用户需要查看日程安排、创建/修改会议、查询/预定会议室时使用。不负责：查询过去的视频会议记录（走 lark-vc）、待办任务（走 ..."
+      },
+      {
+        "name": "lark-contact",
+        "desc": "飞书 / Lark 通讯录:按姓名 / 邮箱解析成 open_id,或按 open_id 反查姓名 / 部门 / 邮箱 / 联系方式 / 个人状态 / 签名。当用户提到某人姓名要下一步发消息 / 排日程,或拿到 open_id 想查具体信息..."
+      },
+      {
+        "name": "lark-doc",
+        "desc": "飞书云文档（Docx / Wiki 文档）：读取和编辑飞书文档内容。当用户给出文档 URL 或 token，或需要查看、创建、编辑文档、插入或下载文档图片附件时使用。文档中嵌入的电子表格、多维表格、画板，先用本 skill 提取 token..."
+      },
+      {
+        "name": "lark-drive",
+        "desc": "飞书云空间（云盘/云存储）：管理 Drive 文件和文件夹，包含上传/下载、创建文件夹、复制/移动/删除、查看元数据、评论/权限/订阅、标题、版本和本地文件导入。用户需要整理云盘目录、处理云空间资源 URL/token，或导入 Word/M..."
+      },
+      {
+        "name": "lark-event",
+        "desc": "Lark/Feishu real-time event listening / subscribing / consuming: stream events as NDJSON via `lark-cli event consume <Ev..."
+      },
+      {
+        "name": "lark-im",
+        "desc": "飞书即时通讯：收发消息和管理群聊。发送和回复消息、搜索聊天记录、管理群聊成员、上传下载图片和文件（支持大文件分片下载）、管理表情回复、发送应用内/短信/电话加急、发送和处理交互卡片（Interactive Card）、监听卡片按钮回调（ca..."
+      },
+      {
+        "name": "lark-mail",
+        "desc": "飞书邮箱：Use when user mentions 起草邮件、写邮件、草稿、发送/回复/转发邮件、查阅邮件、看邮件、搜索邮件、邮件文件夹、邮件标签、邮件联系人、监听新邮件、邮件收信规则等；use for mail/email inten..."
+      },
+      {
+        "name": "lark-markdown",
+        "desc": "飞书 Markdown：查看、创建、上传、编辑和比较 Markdown 文件。当用户需要创建或编辑 Markdown 文件、读取、修改、局部 patch 或比较差异时使用。不负责将 Markdown 导入为飞书在线文档，也不负责文件搜索、权..."
+      },
+      {
+        "name": "lark-minutes",
+        "desc": "飞书妙记：搜索妙记、查看妙记基础信息、下载/上传音视频、读取或编辑妙记的产物内容、改标题、替换说话人/关键词。当给出minute_token、本地音视频文件，要查/改/转妙记产物时使用；本地音视频转纪要/逐字稿优先走本 skill，不要用 ..."
+      },
+      {
+        "name": "lark-note",
+        "desc": "飞书会议纪要（Note）直查：已知 note_id 时查询纪要详情、展示类型、关联文档 token，并读取 unified 原始逐字记录。当用户已持有 note_id，或从文档显式 vc-node-id 获得 note_id 时使用。不负责..."
+      },
+      {
+        "name": "lark-okr",
+        "desc": "飞书 OKR：管理目标与关键结果。查看和编辑 OKR 周期、目标、关键结果、对齐关系、量化指标和进展记录。当用户需要查看或创建 OKR、管理目标和关键结果、查看对齐关系时使用。不负责：待办任务管理（lark-task）、日程/会议安排（la..."
+      },
+      {
+        "name": "lark-openapi-explorer",
+        "desc": "飞书/Lark 原生 OpenAPI 探索：从官方文档库中挖掘未经 CLI 封装的原生 OpenAPI 接口。当用户的需求无法被现有 lark-* skill 或 lark-cli 已注册命令满足，需要查找并调用原生飞书 OpenAPI 时..."
+      },
+      {
+        "name": "lark-shared",
+        "desc": "Use for lark-cli setup/auth tasks: auth login/status/logout, user vs bot identity, business-domain permissions (--domain..."
+      },
+      {
+        "name": "lark-sheets",
+        "desc": "飞书电子表格：创建和操作电子表格。支持创建表格、管理工作表与行列结构（增删/合并/调整尺寸/隐藏/冻结）、读写单元格（值/公式/样式/批注/单元格图片）、查找替换、多操作原子批量更新，以及图表、透视表、条件格式、筛选器、迷你图、浮动图片等对..."
+      },
+      {
+        "name": "lark-skill-maker",
+        "desc": "创建 lark-cli 的自定义 Skill。当用户需要把飞书 API 操作封装成可复用的 Skill（包装原子 API 或编排多步流程）时使用。"
+      },
+      {
+        "name": "lark-slides",
+        "desc": "飞书幻灯片：创建和编辑幻灯片。创建演示文稿、读取幻灯片内容、管理幻灯片页面（创建、删除、读取、局部替换）。当用户需要创建或编辑幻灯片、读取或修改单个页面时使用。当用户给出 doubao.com 的 /slides/ URL/token 时，..."
+      },
+      {
+        "name": "lark-task",
+        "desc": "飞书任务：管理任务、清单和任务智能体。创建待办任务、查看和更新任务状态、拆分子任务、组织任务清单、分配协作成员、上传任务附件、注册或注销任务智能体、更新任务智能体的主页数据、写入智能体任务记录。当用户需要创建待办事项、查看任务列表、跟踪任务..."
+      },
+      {
+        "name": "lark-vc",
+        "desc": "飞书视频会议：搜索历史会议记录、查询会议纪要（总结/待办/章节/逐字稿）、查询参会人快照。当用户查询已结束的会议、获取会议产物（纪要/妙记）、查看参会人时使用；查询未来日程走 lark-calendar。不负责：Agent 真实入会/离会、..."
+      },
+      {
+        "name": "lark-vc-agent",
+        "desc": "飞书视频会议会中能力：用于让应用机器人真实加入或离开正在进行的会议，并读取当前身份可见的会中事件、发送会中文本消息或会中表情。适用于用户询问正在开的会议发生了什么、谁在发言、是否共享内容，或需要发现当前可读的进行中会议 ID。不负责已结束会..."
+      },
+      {
+        "name": "lark-whiteboard",
+        "desc": ">"
+      },
+      {
+        "name": "lark-wiki",
+        "desc": "飞书知识库：管理知识空间、空间成员和文档节点。创建和查询知识空间、查看和管理空间成员、管理节点层级结构、在知识库中组织文档和快捷方式。当用户需要在知识库中查找或创建文档、浏览知识空间结构、查看或管理空间成员、移动或复制节点时使用。当用户给出..."
+      },
+      {
+        "name": "lark-workflow-meeting-summary",
+        "desc": "会议纪要整理工作流：汇总指定时间范围内的会议纪要并生成结构化报告。当用户需要整理会议纪要、生成会议周报、回顾一段时间内的会议内容时使用。"
+      },
+      {
+        "name": "lark-workflow-standup-report",
+        "desc": "日程待办摘要：编排 calendar +agenda 和 task +get-my-tasks，生成指定日期的日程与未完成任务摘要。适用于了解今天/明天/本周的安排。"
+      }
+    ]
+  },
+  {
+    "num": 11,
+    "type": "category_overview",
+    "category": "Notion",
+    "count": 4,
+    "skills": [
+      {
+        "name": "notion-knowledge-capture",
+        "desc": "Capture conversations and decisions into structured Notion pages; use when turning chats/notes into wiki entries, how-to..."
+      },
+      {
+        "name": "notion-meeting-intelligence",
+        "desc": "Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads..."
+      },
+      {
+        "name": "notion-research-documentation",
+        "desc": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion source..."
+      },
+      {
+        "name": "notion-spec-to-implementation",
+        "desc": "Turn Notion specs into implementation plans, tasks, and progress tracking; use when implementing PRDs/feature specs and ..."
+      }
+    ]
+  },
+  {
+    "num": 12,
+    "type": "category_overview",
+    "category": "开发工具",
+    "count": 19,
+    "skills": [
+      {
+        "name": "aspnet-core",
+        "desc": "Build, review, refactor, or architect ASP.NET Core web applications using current official guidance for .NET web develop..."
+      },
+      {
+        "name": "cli-creator",
+        "desc": "Build a composable CLI for Codex from API docs, an OpenAPI spec, existing curl examples, an SDK, a web app, an admin too..."
+      },
+      {
+        "name": "dot-skill",
+        "desc": "Unified meta-skill engine for distilling colleague, relationship, or celebrity characters into reusable Skills. | 统一的 me..."
+      },
+      {
+        "name": "figma",
+        "desc": "Use the Figma MCP server to fetch design context, screenshots, variables, and assets from Figma, and to translate Figma ..."
+      },
+      {
+        "name": "figma-code-connect-components",
+        "desc": "Connects Figma design components to code components using Code Connect mapping tools. Use when user says \"code connect\",..."
+      },
+      {
+        "name": "figma-create-design-system-rules",
+        "desc": "Generates custom design system rules for the user's codebase. Use when user says \"create design system rules\", \"generate..."
+      },
+      {
+        "name": "figma-create-new-file",
+        "desc": "Create a new blank Figma file. Use when the user wants to create a new Figma design or FigJam file, or when you need a n..."
+      },
+      {
+        "name": "figma-generate-design",
+        "desc": "Use this skill alongside figma-use when the task involves translating an application page, view, or multi-section layout..."
+      },
+      {
+        "name": "figma-generate-library",
+        "desc": "Build or update a professional-grade design system in Figma from a codebase. Use when the user wants to create variables..."
+      },
+      {
+        "name": "figma-use",
+        "desc": "**MANDATORY prerequisite** — you MUST invoke this skill BEFORE every `use_figma` tool call. NEVER call `use_figma` direc..."
+      },
+      {
+        "name": "full-output-enforcement",
+        "desc": "Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and handles tok..."
+      },
+      {
+        "name": "json-repair",
+        "desc": ">"
+      },
+      {
+        "name": "migrate-to-codex",
+        "desc": "Migrate supported instruction files, skills, agents, and MCP config into Codex project and global files."
+      },
+      {
+        "name": "open-notebook",
+        "desc": "Interact with Open Notebook (lfnovo/open-notebook) via REST API — search knowledge bases, manage sources/notes, chat wit..."
+      },
+      {
+        "name": "openai-docs",
+        "desc": "Use when the user asks how to build with OpenAI products or APIs, asks about Codex itself or choosing Codex surfaces, ne..."
+      },
+      {
+        "name": "playwright",
+        "desc": "Use when the task requires automating a real browser from the terminal (navigation, form filling, snapshots, screenshots..."
+      },
+      {
+        "name": "playwright-interactive",
+        "desc": "Persistent browser and Electron interaction through `js_repl` for fast iterative UI debugging."
+      },
+      {
+        "name": "winui-app",
+        "desc": "Bootstrap, develop, and design modern WinUI 3 desktop applications with C# and the Windows App SDK using official Micros..."
+      },
+      {
+        "name": "using-coze-cli",
+        "desc": "Coze CLI（coze 命令）统一入口与共享基础，使用任何 coze 能力前必读（登录授权、组织/空间、配置、错误码与权限排查）。四个子模块：coze code（创建/迭代网页·App·小程序·Agent·工作流等编程项目、发需求、预览..."
+      }
+    ]
+  },
+  {
+    "num": 13,
+    "type": "category_overview",
+    "category": "Git/CI",
+    "count": 4,
+    "skills": [
+      {
+        "name": "babysit",
+        "desc": "Watch a pull request or review cycle until it is ready to merge. Use when asked to babysit, monitor, or keep checking PR..."
+      },
+      {
+        "name": "gh-address-comments",
+        "desc": "Help address review/issue comments on the open GitHub PR for the current branch using gh CLI; verify gh auth first and p..."
+      },
+      {
+        "name": "gh-fix-ci",
+        "desc": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions; use `gh` to inspect checks and..."
+      },
+      {
+        "name": "linear",
+        "desc": "Manage issues, projects & team workflows in Linear. Use when the user wants to read, create or updates tickets in Linear..."
+      }
+    ]
+  },
+  {
+    "num": 14,
+    "type": "category_overview",
+    "category": "安全",
+    "count": 4,
+    "skills": [
+      {
+        "name": "security-best-practices",
+        "desc": "Perform language and framework specific security best-practice reviews and suggest improvements. Trigger only when the u..."
+      },
+      {
+        "name": "security-ownership-map",
+        "desc": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ..."
+      },
+      {
+        "name": "security-threat-model",
+        "desc": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mi..."
+      },
+      {
+        "name": "sentry",
+        "desc": "Use when the user asks to inspect Sentry issues or events, summarize recent production errors, or pull basic Sentry heal..."
+      }
+    ]
+  },
+  {
+    "num": 15,
+    "type": "category_overview",
+    "category": "限流/控制",
+    "count": 2,
+    "skills": [
+      {
+        "name": "rate-limit-handler",
+        "desc": "自动处理 429 Too Many Requests 错误，采用指数退避 + 随机抖动策略重试。适用于所有 AI API 调用场景（OpenAI、Claude、本地模型等）。当出现 \"exceeded retry limit, last s..."
+      },
+      {
+        "name": "request-rate-control",
+        "desc": "# Request Rate Control — AI 请求频率控制 Skill  ## 触发条件 当用户涉及以下场景时自动加载： - 构建 AI 驱动的应用（聊天、搜索、问答、生成） - 对接大模型 API（OpenAI、Claude、本..."
+      }
+    ]
+  },
+  {
+    "num": 16,
+    "type": "category_overview",
+    "category": "地图/导航",
+    "count": 1,
+    "skills": [
+      {
+        "name": "map-navigate",
+        "desc": "Move toward a requested target location or perform a requested interaction if already there."
+      }
+    ]
+  },
+  {
+    "num": 17,
+    "type": "category_overview",
+    "category": "目标定义",
+    "count": 1,
+    "skills": [
+      {
+        "name": "define-goal",
+        "desc": "Help the user define a concrete, measurable goal before starting work, especially when they ask to use the goal tool, cr..."
+      }
+    ]
+  },
+  {
+    "num": 18,
+    "type": "category_overview",
+    "category": "视频",
+    "count": 1,
+    "skills": [
+      {
+        "name": "视频下载",
+        "desc": "Download videos from web pages, Douyin, Bilibili, YouTube, and 1000+ other sites. Use when the user provides a video URL..."
+      }
+    ]
+  },
+  {
+    "num": 19,
+    "type": "plugin_category_overview",
+    "category": "云基础设施/部署",
+    "count": 10,
+    "plugins": [
+      "cloudflare",
+      "digitalocean",
+      "hostinger",
+      "netlify",
+      "vercel",
+      "render",
+      "supabase",
+      "expo",
+      "replit",
+      "wix"
+    ]
+  },
+  {
+    "num": 20,
+    "type": "plugin_category_overview",
+    "category": "开发/Git",
+    "count": 5,
+    "plugins": [
+      "github",
+      "circleci",
+      "coderabbit",
+      "twilio-developer-kit",
+      "openai-developers"
+    ]
+  },
+  {
+    "num": 21,
+    "type": "plugin_category_overview",
+    "category": "AI/图像/视频",
+    "count": 9,
+    "plugins": [
+      "heygen",
+      "midpage",
+      "otter-ai",
+      "fal",
+      "nvidia",
+      "hugging-face",
+      "windsor-ai",
+      "read-ai",
+      "tinman-ai"
+    ]
+  },
+  {
+    "num": 22,
+    "type": "plugin_category_overview",
+    "category": "设计工具",
+    "count": 4,
+    "plugins": [
+      "figma",
+      "canva",
+      "picsart",
+      "shutterstock"
+    ]
+  },
+  {
+    "num": 23,
+    "type": "plugin_category_overview",
+    "category": "CRM/销售",
+    "count": 10,
+    "plugins": [
+      "hubspot",
+      "pipedrive",
+      "monday-com",
+      "clickup",
+      "asana",
+      "linear",
+      "attio",
+      "close",
+      "outreach",
+      "superhuman"
+    ]
+  },
+  {
+    "num": 24,
+    "type": "plugin_category_overview",
+    "category": "数据分析",
+    "count": 10,
+    "plugins": [
+      "airtable",
+      "datadog",
+      "mixpanel",
+      "posthog",
+      "deepnote",
+      "hex",
+      "similarweb",
+      "semrush",
+      "pitchbook",
+      "factset"
+    ]
+  },
+  {
+    "num": 25,
+    "type": "plugin_category_overview",
+    "category": "文档/协作",
+    "count": 6,
+    "plugins": [
+      "notion",
+      "box",
+      "egnyte",
+      "sharepoint",
+      "docusign",
+      "signnow"
+    ]
+  },
+  {
+    "num": 26,
+    "type": "plugin_category_overview",
+    "category": "金融/支付",
+    "count": 5,
+    "plugins": [
+      "stripe",
+      "razorpay",
+      "quicknode",
+      "binance",
+      "quickbooks"
+    ]
+  },
+  {
+    "num": 27,
+    "type": "plugin_category_overview",
+    "category": "通讯/日历",
+    "count": 6,
+    "plugins": [
+      "slack",
+      "zoominfo",
+      "sendgrid",
+      "google-calendar",
+      "outlook-calendar",
+      "calendly"
+    ]
+  },
+  {
+    "num": 28,
+    "type": "plugin_category_overview",
+    "category": "测试/监控",
+    "count": 4,
+    "plugins": [
+      "waldo",
+      "weatherpromise",
+      "domotz-preview",
+      "replayio"
+    ]
+  },
+  {
+    "num": 29,
+    "type": "plugin_category_overview",
+    "category": "搜索/研究",
+    "count": 5,
+    "plugins": [
+      "glean",
+      "scite",
+      "zotero",
+      "readwise",
+      "alation"
+    ]
+  },
+  {
+    "num": 30,
+    "type": "plugin_category_overview",
+    "category": "其他",
+    "count": 4,
+    "plugins": [
+      "actively",
+      "cache",
+      "base44",
+      "convex"
+    ]
+  },
+  {
+    "num": 31,
+    "type": "closing",
+    "title": "Codex 技能全景索引",
+    "summary": "共 22 页 | 107 Skills + 120+ Plugins + 1 MCP Server",
+    "mcp": {
+      "name": "codex-security",
+      "desc": "安全扫描框架：finding-discovery, validation, attack-path-analysis, threat-model, fix-finding, track-findings"
+    }
+  }
+]

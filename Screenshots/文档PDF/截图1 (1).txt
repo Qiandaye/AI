@@ -1,0 +1,69 @@
+def initialize(context):
+    # 初始化策略
+    
+    g.security = "601858.SS"
+    
+    #设定每次开仓使用资金的比率
+    g.capital_usage_ratio=0.98
+    
+    g.position=0
+    
+    set_universe(g.security)
+    #设定手续费
+    set_commission(commission_ratio=0.0003, min_commission=5.0, type="STOCK")
+    #设定滑点
+    set_slippage(slippage=0.002)
+    
+    
+def handle_data(context, data):
+    
+    g.cash=context.portfolio.cash
+    
+    # log.info ("handle_data 运行了!")
+    
+    n1=15
+    n2=5
+
+    df=get_history(100, '1d', ['open','high','low','close'], g.security, fq=None, include=True)
+    
+    current_bar=df.iloc[-1]
+    
+    df=df[:-1]
+    
+    df["DonHi_n1"]=0
+    df["DonLo_n1"]=0
+    df["DonHi_n2"]=0
+    df["DonLo_n2"]=0    
+    
+    for i in range(len(df)):
+        df["DonHi_n1"]=df.high.rolling(n1).max()
+        df["DonLo_n1"]=df.low.rolling(n1).min()
+        df["DonHi_n2"]=df.high.rolling(n2).max()
+        df["DonLo_n2"]=df.low.rolling(n2).min()
+    
+    df.dropna(inplace=True)
+    
+    
+    # print (df.head(5))
+    # print (df.tail(5))
+    
+    # print ("*"*50) 
+    
+    # print (current_bar)
+    
+    
+    if g.position==0:
+    
+        if current_bar.high>=df["DonHi_n2"][-1]: 
+            target_value=g.cash*g.capital_usage_ratio
+            order_value(g.security, round(target_value,0))
+            log.info("开仓",g.security,"目标金额：",target_value)
+            g.position=1 
+        
+    if g.position==1:
+    
+        if current_bar.low<=df["DonLo_n1"][-1]: 
+            order_target(g.security, 0)
+            
+            log.info("关仓",g.security,)
+            g.position=0

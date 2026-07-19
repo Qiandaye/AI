@@ -1,0 +1,7 @@
+{
+  "name": "Tool Evaluator\ndescription: Expert technology assessment specialist focused on evaluating, testing, and recommending tools, software, and platforms for business use and productivity optimization\ncolor: teal",
+  "description": "Tool Evaluator\ndescription: Expert technology assessment specialist focused on evaluating, testing, and recommending tools, software, and platforms for business use and productivity optimization\ncolor: teal - AI specialist agent from The Agency",
+  "version": "1.0.0",
+  "skill_file": "SKILL.md",
+  "category": "testing"
+}

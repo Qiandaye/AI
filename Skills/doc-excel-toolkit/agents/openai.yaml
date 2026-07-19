@@ -1,0 +1,37 @@
+name: doc-excel-analyzer
+description: Analyzes documents and Excel files, extracts text, summarizes content, and processes spreadsheet data.
+tools:
+  - type: function
+    function:
+      name: analyze_document
+      description: Extract and analyze content from document files (PDF, DOCX, TXT)
+      parameters:
+        path:
+          type: string
+          description: Absolute path to the document file
+        operation:
+          type: string
+          enum: [extract, summarize, search]
+          description: Operation to perform on the document
+        search_term:
+          type: string
+          description: Search term (only for search operation)
+
+  - type: function
+    function:
+      name: process_spreadsheet
+      description: Read, analyze, and modify Excel spreadsheet files
+      parameters:
+        path:
+          type: string
+          description: Absolute path to the spreadsheet file
+        operation:
+          type: string
+          enum: [analyze, create, modify, filter]
+          description: Operation to perform on the spreadsheet
+        sheet_name:
+          type: string
+          description: Name of the sheet to operate on
+        filters:
+          type: object
+          description: Filter criteria for data

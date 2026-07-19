@@ -1,0 +1,10 @@
+{
+  "id": "claude-skill-sync",
+  "name": "Claude Skill Sync",
+  "version": "0.2.0",
+  "minAppVersion": "1.4.0",
+  "description": "Centralize AI coding agent Skills (Claude Code, Codex, Cursor, Gemini, and 14+ more) in one folder, symlinked to each tool local directory. Bi-directional sync, status dashboard, 18+ presets.",
+  "author": "Chocolae",
+  "authorUrl": "https://github.com/2949984428",
+  "isDesktopOnly": true
+}
