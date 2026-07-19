@@ -43,7 +43,7 @@
   "mcpEnabled": false,
   "mcpServers": [],
   "mcpReadOnlyToolsOnly": true,
-  "languageMode": "auto",
+  "languageMode": "en",
   "chatTabs": [
     {
       "id": "tab_9318de6f346a",

@@ -1,0 +1,9 @@
+# ===== Obsidian 本地状态 / 密钥（不应提交到公网）=====
+# 含 OpenAI API key 的插件数据，必须忽略
+.obsidian/plugins/codex-bridge/data.json
+# 每次打开 vault 都会变化的本地 UI 状态，纯噪声
+.obsidian/workspace.json
+.obsidian/graph.json
+
+# ===== 生成缓存（Obsidian Graphify 插件产物）=====
+graphify-out/
